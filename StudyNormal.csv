@@ -1,0 +1,903 @@
+City,Country,Year,Semester,Major,Second major,Program,Term,Gender,ID
+Amman,Jordan,2016,Fall,International Relations,,Middlebury College - University of Jordan,Fall 2016 ,Female,0
+Amman,Jordan,2017,Fall,International Relations,,Middlebury College - University of Jordan,Fall 2017 ,Female,1
+Amman,Jordan,2018,Fall,International Relations,,CIEE - University of Jordan: Arabic Language,Fall 2018 ,Male,2
+Amman,Jordan,2018,Fall,Anthropology,International Relations,Middlebury College - University of Jordan,Fall 2018 ,Female,3
+Amman,Jordan,2018,Fall,International Relations,,Middlebury College - University of Jordan,Fall 2018 ,Female,4
+Amman,Jordan,2017,Spring,International Relations,,CIEE - University of Jordan: Language and Culture,Spring 2017 ,Female,5
+Amsterdam,The Netherlands,2016,Fall,History,Middle East Studies,CIEE - University of Amsterdam,Fall 2016 ,Female,6
+Amsterdam,The Netherlands,2016,Fall,None,,CIEE - University of Amsterdam,Fall 2016 ,Female,7
+Amsterdam,The Netherlands,2016,Fall,Urban Studies,Geography,CIEE - University of Amsterdam,Fall 2016 ,Male,8
+Amsterdam,The Netherlands,2017,Fall,International Relations,,CIEE - University of Amsterdam,Fall 2017 ,Male,9
+Amsterdam,The Netherlands,2017,Fall,Business (General),,CIEE - University of Amsterdam,Fall 2017 ,Female,10
+Amsterdam,The Netherlands,2017,Fall,Political Science,,CIEE - University of Amsterdam,Fall 2017 ,Female,11
+Amsterdam,The Netherlands,2017,Spring,Sociology,Economics,CIEE - University of Amsterdam,Spring 2017 ,Male,12
+Amsterdam,The Netherlands,2017,Spring,Computer Science,,CIEE - University of Amsterdam,Spring 2017 ,Male,13
+Amsterdam,The Netherlands,2017,Spring,Economics,Sociology,CIEE - University of Amsterdam,Spring 2017 ,Female,14
+Amsterdam,The Netherlands,2017,Spring,Economics,,CIEE - University of Amsterdam,Spring 2017 ,Female,15
+Amsterdam,The Netherlands,2017,Spring,International Relations,,CIEE - University of Amsterdam,Spring 2017 ,Female,16
+Amsterdam,The Netherlands,2018,Spring,Gender and Sexuality Studies,,CIEE - University of Amsterdam,Spring 2018 ,Female,17
+Amsterdam,The Netherlands,2018,Spring,Sociology,,CIEE - University of Amsterdam,Spring 2018 ,Female,18
+Amsterdam,The Netherlands,2018,Spring,Psychology,,CIEE - University of Amsterdam,Spring 2018 ,Female,19
+Amsterdam,The Netherlands,2018,Spring,Yes,,CIEE - University of Amsterdam,Spring 2018 ,Male,20
+Amsterdam,The Netherlands,2018,Spring,None,Psychology,CIEE - University of Amsterdam,Spring 2018 ,Female,21
+Arusha,Tanzania,2018,Fall,None,,SIT - Tanzania-Wildlife Ecology and Conservation,Fall 2018 ,Male,22
+Arusha,Tanzania,2018,Spring,Biology,,SIT - Tanzania-Wildlife Ecology and Conservation,Spring 2018 ,Female,23
+Atenas,Costa Rica,2016,Fall,Development Studies,,SFS - Sustainable Development Studies,Fall 2016 ,Male,24
+Atenas,Costa Rica,2017,Spring,Biology,,SFS - Sustainable Development Studies,Spring 2017 ,Female,25
+Athens,Greece,2016,Fall,Classics,,College Year in Athens - International Center for Hellenic and Mediterranean Studies,Fall 2016 ,Female,26
+Auckland,New Zealand,2016,Fall,No,,IFSA Butler - University of Auckland,Fall 2016 ,Female,27
+Auckland,New Zealand,2016,Fall,Modern Culture and Media,None,IFSA Butler - University of Auckland,Fall 2016 ,Female,28
+Auckland,New Zealand,2017,Fall,Geology,,IFSA Butler - University of Auckland,Fall 2017 ,Female,29
+Auckland,New Zealand,2018,Fall,Yes,,IFSA Butler - University of Auckland,Fall 2018 ,Female,30
+Auckland,New Zealand,2017,Spring,No,None,IFSA Butler - University of Auckland,Spring 2017 ,Male,31
+Auckland,New Zealand,2017,Spring,Engineering,,IFSA Butler - University of Auckland,Spring 2017 ,Male,32
+Auckland,New Zealand,2018,Spring,Sociology,,IFSA Butler - University of Auckland,Spring 2018 ,Female,33
+Aukland,New Zealand,2017,Fall,Geology,,Frontiers Abroad: New Zealand Earth Systems,Fall 2017 ,Male,34
+Barcelona,Spain,2016,Fall,Cognitive Neuroscience,,*Brown in Barcelona (CASA) - Brown + 1 Program - for Brown Students Only,Fall 2016 ,Female,35
+Barcelona,Spain,2016,Fall,None,,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Female,36
+Barcelona,Spain,2016,Fall,Public Policy and American Institutions,Spanish,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Male,37
+Barcelona,Spain,2016,Fall,None,,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Female,38
+Barcelona,Spain,2016,Fall,International Relations,,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Female,39
+Barcelona,Spain,2016,Fall,None,Spanish,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Male,40
+Barcelona,Spain,2016,Fall,Anthropology,Religious Studies,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Male,41
+Barcelona,Spain,2016,Fall,Psychology,,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Male,42
+Barcelona,Spain,2016,Fall,Psychology,Spanish,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Female,43
+Barcelona,Spain,2016,Fall,Business (General),,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Female,44
+Barcelona,Spain,2016,Fall,None,Philosophy,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Male,45
+Barcelona,Spain,2016,Fall,Cognitive Neuroscience,,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Female,46
+Barcelona,Spain,2016,Fall,History,,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Female,47
+Barcelona,Spain,2016,Fall,Yes,,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Male,48
+Barcelona,Spain,2016,Fall,Computer Science,Mathematics,"*Brown in Barcelona, Spain (CASA)",Fall 2016 ,Male,49
+Barcelona,Spain,2017,Fall,Environmental Science,,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Female,50
+Barcelona,Spain,2017,Fall,Environmental Studies,English Literature,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Female,51
+Barcelona,Spain,2017,Fall,Statistical Sciences,,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Male,52
+Barcelona,Spain,2017,Fall,Political Science,,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Female,53
+Barcelona,Spain,2017,Fall,None,,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Female,54
+Barcelona,Spain,2017,Fall,Yes,,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Female,55
+Barcelona,Spain,2017,Fall,American Studies,Spanish,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Male,56
+Barcelona,Spain,2017,Fall,English Literature,History,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Female,57
+Barcelona,Spain,2017,Fall,Cognitive Neuroscience,,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Female,58
+Barcelona,Spain,2017,Fall,Economics,,"*Brown in Barcelona, Spain (CASA)",Fall 2017 ,Male,59
+Barcelona,Spain,2018,Fall,Political Science,Spanish,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Female,60
+Barcelona,Spain,2018,Fall,Music,,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Male,61
+Barcelona,Spain,2018,Fall,Political Science,Economics,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Male,62
+Barcelona,Spain,2018,Fall,Business (General),Anthropology,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Male,63
+Barcelona,Spain,2018,Fall,Economics,,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Female,64
+Barcelona,Spain,2018,Fall,International Relations,,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Female,65
+Barcelona,Spain,2018,Fall,Neuroscience,,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Male,66
+Barcelona,Spain,2018,Fall,Cognitive Neuroscience,,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Female,67
+Barcelona,Spain,2018,Fall,Biochemistry,German,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Male,68
+Barcelona,Spain,2018,Fall,Computer Science,Psychology,"*Brown in Barcelona, Spain (CASA)",Fall 2018 ,Female,69
+Barcelona,Spain,2017,Spring,Computer Science,,"*Brown in Barcelona, Spain (CASA)",Spring 2017 ,Female,70
+Barcelona,Spain,2017,Spring,Literary Arts,Public Policy and American Institutions,"*Brown in Barcelona, Spain (CASA)",Spring 2017 ,Female,71
+Barcelona,Spain,2017,Spring,Public Policy and American Institutions,,"*Brown in Barcelona, Spain (CASA)",Spring 2017 ,Female,72
+Barcelona,Spain,2017,Spring,Comparative Literature,,"*Brown in Barcelona, Spain (CASA)",Spring 2017 ,Male,73
+Barcelona,Spain,2017,Spring,Music,,"*Brown in Barcelona, Spain (CASA)",Spring 2017 ,Male,74
+Barcelona,Spain,2017,Spring,Yes,None,"*Brown in Barcelona, Spain (CASA)",Spring 2017 ,Female,75
+Barcelona,Spain,2017,Spring,Biology,,"*Brown in Barcelona, Spain (CASA)",Spring 2017 ,Female,76
+Barcelona,Spain,2017,Spring,Urban Studies,,"*Brown in Barcelona, Spain (CASA)",Spring 2017 ,Female,77
+Barcelona,Spain,2018,Spring,Economics,,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Female,78
+Barcelona,Spain,2018,Spring,Economics,History,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Female,79
+Barcelona,Spain,2018,Spring,Yes,,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Female,80
+Barcelona,Spain,2018,Spring,Public Policy and American Institutions,,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Female,81
+Barcelona,Spain,2018,Spring,Urban Studies,,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Male,82
+Barcelona,Spain,2018,Spring,Yes,,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Male,83
+Barcelona,Spain,2018,Spring,International Relations,,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Female,84
+Barcelona,Spain,2018,Spring,Comparative Literature,,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Male,85
+Barcelona,Spain,2018,Spring,American Studies,International Relations,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Female,86
+Barcelona,Spain,2018,Spring,History of Art and Architecture,Visual Art,"*Brown in Barcelona, Spain (CASA)",Spring 2018 ,Male,87
+Beijing,"China, People's Republic of",2016,Fall,International Relations,,"Columbia in Beijing at Tsinghua University, China",Fall 2016 ,Male,88
+Beijing,"China, People's Republic of",2017,Fall,International Relations,,"Columbia in Beijing at Tsinghua University, China",Fall 2017 ,Female,89
+Beijing,"China, People's Republic of",2018,Fall,Literary Arts,,CET - Beijing Chinese Language Program,Fall 2018 ,Female,90
+Beijing,"China, People's Republic of",2018,Spring,Africana Studies,Sociology,CET - Beijing Chinese Language Program,Spring 2018 ,Female,91
+Berlin,Germany,2016,Fall,History,,"Bard in Berlin, Germany",Fall 2016 ,Female,92
+Berlin,Germany,2016,Fall,Modern Culture and Media,,"Bard in Berlin, Germany",Fall 2016 ,Female,93
+Berlin,Germany,2016,Fall,Modern Culture and Media,English Literature,"Bard in Berlin, Germany",Fall 2016 ,Male,94
+Berlin,Germany,2017,Spring,Mathematics,German,*Brown in Germany,Spring 2017 ,Female,95
+Berlin,Germany,2017,Spring,Comparative Literature,,*Brown in Germany,Spring 2017 ,Male,96
+Berlin,Germany,2017,Spring,International Relations,,*Brown in Germany,Spring 2017 ,Female,97
+Berlin,Germany,2017,Spring,Race and Ethnicity in America,,*Brown in Germany,Spring 2017 ,Female,98
+Berlin,Germany,2017,Spring,Comparative Literature,,*Brown in Germany,Spring 2017 ,Female,99
+Berlin,Germany,2017,Spring,Cognitive Neuroscience,German,*Brown in Germany,Spring 2017 ,Female,100
+Berlin,Germany,2018,Spring,International Relations,None,*Brown in Germany,Spring 2018 ,Female,101
+Berlin,Germany,2018,Spring,German,History,*Brown in Germany,Spring 2018 ,Female,102
+Berlin,Germany,2018,Spring,History of Art and Architecture,Economics,*Brown in Germany,Spring 2018 ,Female,103
+Berlin,Germany,2018,Spring,International Relations,Music,*Brown in Germany,Spring 2018 ,Male,104
+Bodh Gaya,India,2017,Fall,None,,Antioch/Carleton Global Engagement Abroad - Buddhist Studies,Fall 2017 ,Male,105
+Bodh Gaya,India,2018,Fall,Biochemistry,,Antioch/Carleton Global Engagement Abroad - Buddhist Studies,Fall 2018 ,Male,106
+Bodh Gaya,India,2018,Fall,None,,Antioch/Carleton Global Engagement Abroad - Buddhist Studies,Fall 2018 ,Male,107
+Bologna,Italy,2016,Fall,International Relations,,*Brown in Italy,Fall 2016 ,Female,108
+Bologna,Italy,2017,Fall,International Relations,None,*Brown in Italy,Fall 2017 ,Female,109
+Bologna,Italy,2017,Fall,American Studies,,*Brown in Italy,Fall 2017 ,Female,110
+Bologna,Italy,2017,Fall,Theatre Arts and Performance Studies,,*Brown in Italy,Fall 2017 ,Female,111
+Bologna,Italy,2017,Fall,Sociology,,*Brown in Italy,Fall 2017 ,Male,112
+Bologna,Italy,2017,Fall,Economics,Political Science,*Brown in Italy,Fall 2017 ,Female,113
+Bologna,Italy,2017,Spring,Public Policy and American Institutions,,*Brown in Italy,Spring 2017 ,Male,114
+Bologna,Italy,2017,Spring,Computer Science,None,*Brown in Italy,Spring 2017 ,Female,115
+Bologna,Italy,2017,Spring,Comparative Literature,Gender and Sexuality Studies,*Brown in Italy,Spring 2017 ,Female,116
+Bologna,Italy,2017,Spring,None,,*Brown in Italy,Spring 2017 ,Male,117
+Bologna,Italy,2017,Spring,Biochemistry,,*Brown in Italy,Spring 2017 ,Female,118
+Bologna,Italy,2017,Spring,Development Studies,Italian,*Brown in Italy,Spring 2017 ,Male,119
+Bologna,Italy,2018,Spring,Economics,Italian,*Brown in Italy,Spring 2018 ,Male,120
+Bologna,Italy,2018,Spring,American Studies,Urban Studies,*Brown in Italy,Spring 2018 ,Female,121
+Bologna,Italy,2018,Spring,Music,None,*Brown in Italy,Spring 2018 ,Male,122
+Bologna,Italy,2018,Spring,American Studies,,*Brown in Italy,Spring 2018 ,Female,123
+Bologna,Italy,2018,Spring,International Relations,Italian,*Brown in Italy,Spring 2018 ,Male,124
+Bologna,Italy,2018,Spring,Computer Science,Italian,*Brown in Italy,Spring 2018 ,Female,125
+Brussels,Belgium,2016,Fall,Cognitive Science,,CIEE - Business and International Relations,Fall 2016 ,Female,126
+Brussels,Belgium,2018,Fall,Yes,,CIEE - Business and International Relations,Fall 2018 ,Male,127
+Brussels,Belgium,2018,Spring,Economics,Middle East Studies,CIEE - Business and International Relations,Spring 2018 ,Female,128
+Brussels,Belgium,2018,Spring,Comparative Literature,International Relations,CIEE - The Advanced Liberal Arts Program ULB,Spring 2018 ,Female,129
+Budapest,Hungary,2016,Fall,Computer Science,Music,AIT - Budapest,Fall 2016 ,Female,130
+Budapest,Hungary,2016,Fall,Mathematics,,St. Olaf College - Budapest Semester in Mathematics,Fall 2016 ,Female,131
+Budapest,Hungary,2017,Fall,None,,AIT - Budapest,Fall 2017 ,Male,132
+Budapest,Hungary,2017,Fall,Computer Science,,AIT - Budapest,Fall 2017 ,Male,133
+Budapest,Hungary,2017,Fall,Mathematics,,St. Olaf College - Budapest Semester in Mathematics,Fall 2017 ,Female,134
+Budapest,Hungary,2018,Fall,Computer Science,Modern Culture and Media,AIT - Budapest,Fall 2018 ,Male,135
+Budapest,Hungary,2017,Spring,Computer Science,,AIT - Budapest,Spring 2017 ,Male,136
+Budapest,Hungary,2017,Spring,Computer Science,None,AIT - Budapest,Spring 2017 ,Female,137
+Budapest,Hungary,2017,Spring,Computer Science,Modern Culture and Media,AIT - Budapest,Spring 2017 ,Female,138
+Budapest,Hungary,2018,Spring,Computer Science,,AIT - Budapest,Spring 2018 ,Female,139
+Budapest,Hungary,2018,Spring,Business (General),Computer Science,AIT - Budapest,Spring 2018 ,Female,140
+Budapest,Hungary,2018,Spring,Computer Science,,AIT - Budapest,Spring 2018 ,Female,141
+Budapest,Hungary,2018,Spring,Computer Science,,AIT - Budapest,Spring 2018 ,Female,142
+Budapest,Hungary,2018,Spring,Computer Science,,AIT - Budapest,Spring 2018 ,Male,143
+Budapest,Hungary,2018,Spring,Biochemistry,,St. Olaf College - Budapest Semester in Mathematics,Spring 2018 ,Male,144
+Buenos Aires,Argentina,2016,Fall,International Relations,Economics,*Brown in Argentina (CASA),Fall 2016 ,Female,145
+Buenos Aires,Argentina,2016,Fall,Political Science,Development Studies,*Brown in Argentina (CASA),Fall 2016 ,Female,146
+Buenos Aires,Argentina,2016,Fall,Political Science,,*Brown in Argentina (CASA),Fall 2016 ,Female,147
+Buenos Aires,Argentina,2017,Fall,International Relations,None,*Brown in Argentina (CASA),Fall 2017 ,Female,148
+Buenos Aires,Argentina,2017,Fall,English Language,Art,*Brown in Argentina (CASA),Fall 2017 ,Male,149
+Buenos Aires,Argentina,2017,Fall,Yes,Spanish,*Brown in Argentina (CASA),Fall 2017 ,Male,150
+Buenos Aires,Argentina,2017,Fall,International Relations,,*Brown in Argentina (CASA),Fall 2017 ,Female,151
+Buenos Aires,Argentina,2017,Fall,Anthropology,,*Brown in Argentina (CASA),Fall 2017 ,Female,152
+Buenos Aires,Argentina,2017,Fall,No,,*Brown in Argentina (CASA),Fall 2017 ,Female,153
+Buenos Aires,Argentina,2017,Fall,Business (General),,*Brown in Argentina (CASA),Fall 2017 ,Male,154
+Buenos Aires,Argentina,2017,Fall,Urban Studies,,*Brown in Argentina (CASA),Fall 2017 ,Female,155
+Buenos Aires,Argentina,2017,Fall,Urban Studies,,*Brown in Argentina (CASA),Fall 2017 ,Male,156
+Buenos Aires,Argentina,2017,Fall,Statistical Sciences,Anthropology,*Brown in Argentina (CASA),Fall 2017 ,Male,157
+Buenos Aires,Argentina,2017,Fall,International Relations,,*Brown in Argentina (CASA),Fall 2017 ,Female,158
+Buenos Aires,Argentina,2017,Fall,Political Science,,*Brown in Argentina (CASA),Fall 2017 ,Female,159
+Buenos Aires,Argentina,2017,Fall,None,,*Brown in Argentina (CASA),Fall 2017 ,Female,160
+Buenos Aires,Argentina,2017,Fall,International Relations,,*Brown in Argentina (CASA),Fall 2017 ,Female,161
+Buenos Aires,Argentina,2017,Spring,Comparative Literature,,*Brown in Argentina (CASA),Spring 2017 ,Male,162
+Buenos Aires,Argentina,2017,Spring,Education,,*Brown in Argentina (CASA),Spring 2017 ,Female,163
+Buenos Aires,Argentina,2017,Spring,International Relations,Environmental Studies,*Brown in Argentina (CASA),Spring 2017 ,Male,164
+Buenos Aires,Argentina,2017,Spring,English Literature,,*Brown in Argentina (CASA),Spring 2017 ,Male,165
+Buenos Aires,Argentina,2017,Spring,Public Policy and American Institutions,,*Brown in Argentina (CASA),Spring 2017 ,Female,166
+Buenos Aires,Argentina,2017,Spring,Race and Ethnicity in America,,*Brown in Argentina (CASA),Spring 2017 ,Female,167
+Buenos Aires,Argentina,2018,Spring,Environmental Studies,,*Brown in Argentina (CASA),Spring 2018 ,Male,168
+Buenos Aires,Argentina,2018,Spring,Urban Studies,,*Brown in Argentina (CASA),Spring 2018 ,Female,169
+Buenos Aires,Argentina,2018,Spring,Development Studies,Economics,*Brown in Argentina (CASA),Spring 2018 ,Male,170
+Buenos Aires,Argentina,2018,Spring,Environmental Science,,*Brown in Argentina (CASA),Spring 2018 ,Female,171
+Cairns,Australia,2018,Fall,Economics,Music,"SIT - Australia: Rainforest, Reef, and Cultural Ecology",Fall 2018 ,Male,172
+Cantabria,Spain,2017,Fall,Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Fall 2017 ,Male,179
+Cantabria,Spain,2017,Spring,Mechanical Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2017 ,Male,180
+Cantabria,Spain,2017,Spring,Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2017 ,Female,181
+Cantabria,Spain,2017,Spring,Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2017 ,Female,182
+Cantabria,Spain,2017,Spring,Computer Science,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2017 ,Female,183
+Cantabria,Spain,2017,Spring,Mechanical Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2017 ,Female,184
+Cantabria,Spain,2017,Spring,Physics,,"*Brown in Cantabria, Spain - Physics Program",Spring 2017 ,Male,185
+Cantabria,Spain,2018,Spring,Chemical Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2018 ,Female,186
+Cantabria,Spain,2018,Spring,Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2018 ,Female,187
+Cantabria,Spain,2018,Spring,Mechanical Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2018 ,Female,188
+Cantabria,Spain,2018,Spring,Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2018 ,Female,189
+Cantabria,Spain,2018,Spring,Engineering,,"*Brown in Cantabria, Spain - Engineering Program",Spring 2018 ,Female,190
+Cantabria,Spain,2018,Spring,Physics,Gender and Sexuality Studies,"*Brown in Cantabria, Spain - Physics Program",Spring 2018 ,Female,191
+Cantabria,Spain,2018,Spring,Physics,Computer Science,"*Brown in Cantabria, Spain - Physics Program",Spring 2018 ,Male,192
+Cape Town,South Africa,2016,Fall,Art History,Urban Studies,CIEE - University of Cape Town,Fall 2016 ,Female,193
+Cape Town,South Africa,2017,Fall,Urban Studies,Economics,CIEE - University of Cape Town,Fall 2017 ,Female,194
+Cape Town,South Africa,2017,Fall,Political Science,Economics,CIEE - University of Cape Town,Fall 2017 ,Male,195
+Cape Town,South Africa,2017,Fall,Economics,,CIEE - University of Cape Town,Fall 2017 ,Female,196
+Cape Town,South Africa,2018,Spring,Literary Arts,,CIEE - University of Cape Town,Spring 2018 ,Female,197
+Cape Town,South Africa,2018,Spring,Africana Studies,History of Art and Architecture,CIEE - University of Cape Town,Spring 2018 ,Male,198
+Cape Town,South Africa,2018,Spring,Yes,,CIEE - University of Cape Town,Spring 2018 ,Male,199
+Cape Town,South Africa,2018,Spring,History,,CIEE - University of Cape Town,Spring 2018 ,Male,200
+Cape Town,South Africa,2018,Spring,None,,CIEE - University of Cape Town,Spring 2018 ,Female,201
+Christchurch,New Zealand,2018,Spring,Geology,Computer Science,Frontiers Abroad: Geology of New Zealand,Spring 2018 ,Female,202
+Copenhagen,Denmark,2016,Fall,Political Science,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Male,203
+Copenhagen,Denmark,2016,Fall,Biology,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,204
+Copenhagen,Denmark,2016,Fall,Psychology,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,205
+Copenhagen,Denmark,2016,Fall,Biology,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Male,206
+Copenhagen,Denmark,2016,Fall,English Literature,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,207
+Copenhagen,Denmark,2016,Fall,Psychology,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,208
+Copenhagen,Denmark,2016,Fall,Biology,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,209
+Copenhagen,Denmark,2016,Fall,Biology,None,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,210
+Copenhagen,Denmark,2016,Fall,Business (General),Psychology,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,211
+Copenhagen,Denmark,2016,Fall,Economics,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,212
+Copenhagen,Denmark,2016,Fall,Biology,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,213
+Copenhagen,Denmark,2016,Fall,Biology,None,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,214
+Copenhagen,Denmark,2016,Fall,Cognitive Neuroscience,Psychology,DIS - Danish Institute for Study Abroad,Fall 2016 ,Male,215
+Copenhagen,Denmark,2016,Fall,Computer Science,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,216
+Copenhagen,Denmark,2016,Fall,"Commerce, Organizations & Entrepreneurship",Visual Art,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,217
+Copenhagen,Denmark,2016,Fall,American Studies,,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,218
+Copenhagen,Denmark,2016,Fall,Philosophy,Environmental Studies,DIS - Danish Institute for Study Abroad,Fall 2016 ,Female,219
+Copenhagen,Denmark,2017,Fall,Sociology,English Language,DIS - Danish Institute for Study Abroad,Fall 2017 ,Male,220
+Copenhagen,Denmark,2017,Fall,None,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,221
+Copenhagen,Denmark,2017,Fall,Biology,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Male,222
+Copenhagen,Denmark,2017,Fall,Geology,Literary Arts,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,223
+Copenhagen,Denmark,2017,Fall,Art History,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,224
+Copenhagen,Denmark,2017,Fall,None,French,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,225
+Copenhagen,Denmark,2017,Fall,Economics,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,226
+Copenhagen,Denmark,2017,Fall,Geology,History,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,227
+Copenhagen,Denmark,2017,Fall,English Literature,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,228
+Copenhagen,Denmark,2017,Fall,Modern Culture and Media,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,229
+Copenhagen,Denmark,2017,Fall,Biochemistry,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,230
+Copenhagen,Denmark,2017,Fall,Urban Studies,Philosophy,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,231
+Copenhagen,Denmark,2017,Fall,Natural Sciences,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Male,232
+Copenhagen,Denmark,2017,Fall,Education,Public Policy and American Institutions,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,233
+Copenhagen,Denmark,2017,Fall,Modern Culture and Media,History,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,234
+Copenhagen,Denmark,2017,Fall,Cognitive Neuroscience,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,235
+Copenhagen,Denmark,2017,Fall,Visual Art,Modern Culture and Media,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,236
+Copenhagen,Denmark,2017,Fall,Environmental Studies,Public Policy and American Institutions,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,237
+Copenhagen,Denmark,2017,Fall,Philosophy,,DIS - Danish Institute for Study Abroad,Fall 2017 ,Female,238
+Copenhagen,Denmark,2018,Fall,None,,DIS - Danish Institute for Study Abroad,Fall 2018 ,Female,239
+Copenhagen,Denmark,2018,Fall,None,,DIS - Danish Institute for Study Abroad,Fall 2018 ,Male,240
+Copenhagen,Denmark,2018,Fall,Psychology,Economics,DIS - Danish Institute for Study Abroad,Fall 2018 ,Male,241
+Copenhagen,Denmark,2018,Fall,Economics,,DIS - Danish Institute for Study Abroad,Fall 2018 ,Male,242
+Copenhagen,Denmark,2018,Fall,History,,DIS - Danish Institute for Study Abroad,Fall 2018 ,Female,243
+Copenhagen,Denmark,2018,Fall,Mathematics,,DIS - Danish Institute for Study Abroad,Fall 2018 ,Female,244
+Copenhagen,Denmark,2018,Fall,Architecture,Engineering,DIS - Danish Institute for Study Abroad,Fall 2018 ,Female,245
+Copenhagen,Denmark,2018,Fall,Computer Science,,DIS - Danish Institute for Study Abroad,Fall 2018 ,Female,246
+Copenhagen,Denmark,2018,Fall,Urban Studies,,DIS - Danish Institute for Study Abroad,Fall 2018 ,Male,247
+Copenhagen,Denmark,2017,Spring,Computer Science,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Male,248
+Copenhagen,Denmark,2017,Spring,Computer Science,PreMed,DIS - Danish Institute for Study Abroad,Spring 2017 ,Male,249
+Copenhagen,Denmark,2017,Spring,None,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,250
+Copenhagen,Denmark,2017,Spring,None,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,251
+Copenhagen,Denmark,2017,Spring,Biology,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,252
+Copenhagen,Denmark,2017,Spring,Cognitive Science,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,253
+Copenhagen,Denmark,2017,Spring,Education,American Studies,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,254
+Copenhagen,Denmark,2017,Spring,Classics,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,255
+Copenhagen,Denmark,2017,Spring,Computer Science,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,256
+Copenhagen,Denmark,2017,Spring,English Literature,History,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,257
+Copenhagen,Denmark,2017,Spring,Computer Science,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,258
+Copenhagen,Denmark,2017,Spring,Psychology,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Male,259
+Copenhagen,Denmark,2017,Spring,Biology,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,260
+Copenhagen,Denmark,2017,Spring,Mathematics,,DIS - Danish Institute for Study Abroad,Spring 2017 ,Female,261
+Copenhagen,Denmark,2018,Spring,Psychology,,DIS - Danish Institute for Study Abroad,Spring 2018 ,Male,262
+Copenhagen,Denmark,2018,Spring,None,,DIS - Danish Institute for Study Abroad,Spring 2018 ,Female,263
+Copenhagen,Denmark,2018,Spring,Chemical Engineering,,DIS - Danish Institute for Study Abroad,Spring 2018 ,Male,264
+Copenhagen,Denmark,2018,Spring,PreMed,,DIS - Danish Institute for Study Abroad,Spring 2018 ,Male,265
+Copenhagen,Denmark,2018,Spring,Biology,,DIS - Danish Institute for Study Abroad,Spring 2018 ,Male,266
+Copenhagen,Denmark,2018,Spring,Statistical Sciences,,DIS - Danish Institute for Study Abroad,Spring 2018 ,Male,267
+Copenhagen,Denmark,2018,Spring,History,,DIS - Danish Institute for Study Abroad,Spring 2018 ,Female,268
+Copenhagen,Denmark,2018,Spring,"Commerce, Organizations & Entrepreneurship",,DIS - Danish Institute for Study Abroad,Spring 2018 ,Male,269
+Copenhagen,Denmark,2018,Spring,Engineering,,DIS - Danish Institute for Study Abroad,Spring 2018 ,Female,270
+Copenhagen,Denmark,2018,Spring,PreMed,,DIS - Danish Institute for Study Abroad,Spring 2018 ,Female,271
+Dschang,Cameroon,2016,Fall,Development Studies,,SIT - Cameroon: Social Pluralism and Development,Fall 2016 ,Female,272
+Dschang,Cameroon,2017,Fall,Urban Studies,,SIT - Cameroon: Social Pluralism and Development,Fall 2017 ,Female,273
+Dschang,Cameroon,2017,Fall,Africana Studies,English Literature,SIT - Cameroon: Social Pluralism and Development,Fall 2017 ,Female,274
+Dublin,Ireland,2016,Fall,History,Political Science,*Brown in Ireland (CASA) - Trinity College,Fall 2016 ,Female,277
+Dublin,Ireland,2016,Fall,History,,*Brown in Ireland (CASA) - Trinity College,Fall 2016 ,Female,278
+Dublin,Ireland,2016,Fall,Public Policy and American Institutions,,*Brown in Ireland (CASA) - Trinity College,Fall 2016 ,Female,279
+Dublin,Ireland,2016,Fall,English Literature,,*Brown in Ireland (CASA) - Trinity College,Fall 2016 ,Female,280
+Dublin,Ireland,2016,Fall,History,,*Brown in Ireland (CASA) - Trinity College - Brown + 1 Program,Fall 2016 ,Male,281
+Dublin,Ireland,2017,Fall,English Literature,Medieval Studies,*Brown in Ireland (CASA) - Trinity College,Fall 2017 ,Female,282
+Dublin,Ireland,2017,Fall,Computer Science,,*Brown in Ireland (CASA) - Trinity College,Fall 2017 ,Female,283
+Dublin,Ireland,2017,Fall,Political Science,,*Brown in Ireland (CASA) - Trinity College,Fall 2017 ,Male,284
+Dublin,Ireland,2017,Fall,Economics,International Relations,*Brown in Ireland (CASA) - Trinity College,Fall 2017 ,Male,285
+Dublin,Ireland,2017,Fall,Music,,*Brown in Ireland (CASA) - Trinity College,Fall 2017 ,Female,286
+Dublin,Ireland,2017,Fall,Economics,,*Brown in Ireland (CASA) - Trinity College,Fall 2017 ,Male,287
+Dublin,Ireland,2018,Fall,Cognitive Neuroscience,,*Brown in Ireland (CASA) - Trinity College,Fall 2018 ,Female,288
+Dublin,Ireland,2018,Fall,Computer Science,,*Brown in Ireland (CASA) - Trinity College,Fall 2018 ,Male,289
+Dublin,Ireland,2018,Fall,Botany,English Literature,*Brown in Ireland (CASA) - Trinity College,Fall 2018 ,Female,290
+Dublin,Ireland,2018,Fall,Public Policy and American Institutions,,*Brown in Ireland (CASA) - Trinity College,Fall 2018 ,Male,291
+Dublin,Ireland,2018,Fall,Economics,,*Brown in Ireland (CASA) - Trinity College,Fall 2018 ,Female,292
+Dublin,Ireland,2018,Fall,Philosophy,PreMed,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Female,293
+Dublin,Ireland,2018,Fall,None,None,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Male,294
+Dublin,Ireland,2018,Fall,Business (General),,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Female,295
+Dublin,Ireland,2018,Fall,Education,,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Female,296
+Dublin,Ireland,2018,Fall,Gender and Sexuality Studies,Theatre Arts and Performance Studies,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Female,297
+Dublin,Ireland,2018,Fall,Neuroscience,History,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Female,298
+Dublin,Ireland,2018,Fall,International Relations,Economics,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Female,299
+Dublin,Ireland,2018,Fall,American Studies,,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Female,300
+Dublin,Ireland,2018,Fall,Economics,Computer Science,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Male,301
+Dublin,Ireland,2018,Fall,English Literature,Film Studies,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Male,302
+Dublin,Ireland,2018,Fall,English Literature,History,*Mid-Year Transfer Program - Brown in Ireland (Trinity College Dublin) *Restricted Application*,Fall 2018 ,Male,303
+Dublin,Ireland,2017,Spring,Economics,,*Brown in Ireland (CASA) - Trinity College,Spring 2017 ,Female,304
+Dublin,Ireland,2017,Spring,Religious Studies,,*Brown in Ireland (CASA) - Trinity College,Spring 2017 ,Male,305
+Dublin,Ireland,2017,Spring,Economics,Biology,*Brown in Ireland (CASA) - Trinity College,Spring 2017 ,Female,306
+Dublin,Ireland,2018,Spring,English Language,,*Brown in Ireland (CASA) - Trinity College,Spring 2018 ,Male,307
+Dublin,Ireland,2018,Spring,Theatre Arts and Performance Studies,English Literature,*Brown in Ireland (CASA) - Trinity College,Spring 2018 ,Female,308
+Dublin,Ireland,2018,Spring,Comparative Literature,,*Brown in Ireland (CASA) - Trinity College,Spring 2018 ,Male,309
+Dublin,Ireland,2018,Spring,Political Science,Gender and Sexuality Studies,*Brown in Ireland (CASA) - Trinity College,Spring 2018 ,Female,310
+Dublin,Ireland,2018,Spring,"Commerce, Organizations & Entrepreneurship",,*Brown in Ireland (CASA) - Trinity College,Spring 2018 ,Female,311
+Dublin,Ireland,2018,Spring,Economics,,*Brown in Ireland (CASA) - Trinity College - Brown + 1 Program,Spring 2018 ,Male,312
+Dunedin,New Zealand,2016,Fall,Geology,,Arcadia University - University of Otago,Fall 2016 ,Female,313
+Dunedin,New Zealand,2017,Fall,Environmental Studies,,Arcadia University - University of Otago,Fall 2017 ,Female,314
+Dunedin,New Zealand,2017,Fall,English Language,,Arcadia University - University of Otago,Fall 2017 ,Female,315
+Dunedin,New Zealand,2018,Spring,Computer Science,,Arcadia University - University of Otago,Spring 2018 ,Male,316
+Dunedin,New Zealand,2018,Spring,Yes,,Arcadia University - University of Otago,Spring 2018 ,Female,317
+Dunedin,New Zealand,2018,Spring,Environmental Studies,,Arcadia University - University of Otago,Spring 2018 ,Male,318
+Edinburgh,United Kingdom,2016,Fall,Yes,,*Brown in the U.K. - University of Edinburgh,Fall 2016 ,Female,323
+Edinburgh,United Kingdom,2016,Fall,Mechanical Engineering,,*Brown in the U.K. - University of Edinburgh,Fall 2016 ,Male,324
+Edinburgh,United Kingdom,2016,Fall,Neuroscience,No,*Brown in the U.K. - University of Edinburgh,Fall 2016 ,Female,325
+Edinburgh,United Kingdom,2016,Fall,Computer Science,,*Brown in the U.K. - University of Edinburgh,Fall 2016 ,Female,326
+Edinburgh,United Kingdom,2016,Fall,PreMed,,*Brown in the U.K. - University of Edinburgh,Fall 2016 ,Female,327
+Edinburgh,United Kingdom,2016,Fall,Computer Science,,*Brown in the U.K. - University of Edinburgh,Fall 2016 ,Female,328
+Edinburgh,United Kingdom,2016,Fall,Biology,,*Brown in the U.K. - University of Edinburgh - Brown + 1 Program,Fall 2016 ,Male,329
+Edinburgh,United Kingdom,2016,Fall,Archeology,Egyptology,*Brown in the U.K. - University of Edinburgh - Brown + 1 Program,Fall 2016 ,Female,330
+Edinburgh,United Kingdom,2016,Fall,Literary Arts,Computer Science,*Brown in the U.K. - University of Edinburgh - Brown + 1 Program,Fall 2016 ,Male,331
+Edinburgh,United Kingdom,2016,Fall,Cognitive Neuroscience,American Studies,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2016 ,Female,332
+Edinburgh,United Kingdom,2016,Fall,English Literature,Film Studies,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2016 ,Female,333
+Edinburgh,United Kingdom,2016,Fall,Political Science,Religious Studies,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2016 ,Male,334
+Edinburgh,United Kingdom,2016,Fall,Linguistics,,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2016 ,Female,335
+Edinburgh,United Kingdom,2017,Fall,Political Science,,*Brown in the U.K. - University of Edinburgh,Fall 2017 ,Female,336
+Edinburgh,United Kingdom,2017,Fall,Geology,,*Brown in the U.K. - University of Edinburgh,Fall 2017 ,Female,337
+Edinburgh,United Kingdom,2017,Fall,English Literature,Theatre Arts and Performance Studies,*Brown in the U.K. - University of Edinburgh,Fall 2017 ,Female,338
+Edinburgh,United Kingdom,2017,Fall,Political Science,,*Brown in the U.K. - University of Edinburgh,Fall 2017 ,Female,339
+Edinburgh,United Kingdom,2017,Fall,History,English Literature,*Brown in the U.K. - University of Edinburgh,Fall 2017 ,Male,340
+Edinburgh,United Kingdom,2017,Fall,Computer Science,,*Brown in the U.K. - University of Edinburgh,Fall 2017 ,Male,341
+Edinburgh,United Kingdom,2017,Fall,Literary Arts,,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Female,342
+Edinburgh,United Kingdom,2017,Fall,PreMed,Science,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Female,343
+Edinburgh,United Kingdom,2017,Fall,Economics,,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Male,344
+Edinburgh,United Kingdom,2017,Fall,"Commerce, Organizations & Entrepreneurship",,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Male,345
+Edinburgh,United Kingdom,2017,Fall,PreMed,Mathematics,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Female,346
+Edinburgh,United Kingdom,2017,Fall,Computational Biology,,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Female,347
+Edinburgh,United Kingdom,2017,Fall,Biology,PreMed,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Female,348
+Edinburgh,United Kingdom,2017,Fall,International Relations,Chinese,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Female,349
+Edinburgh,United Kingdom,2017,Fall,Literary Arts,,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Male,350
+Edinburgh,United Kingdom,2017,Fall,Modern Culture and Media,,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Male,351
+Edinburgh,United Kingdom,2017,Fall,Economics,Literary Arts,"*Mid-Year Transfer Program - Brown in the UK - UNIVERSITY OF EDINBURGH, SCOTLAND *Restricted Application*",Fall 2017 ,Male,352
+Edinburgh,United Kingdom,2018,Fall,None,Economics,*Brown in the U.K. - University of Edinburgh,Fall 2018 ,Male,353
+Edinburgh,United Kingdom,2018,Fall,None,,*Brown in the U.K. - University of Edinburgh,Fall 2018 ,Male,354
+Edinburgh,United Kingdom,2017,Spring,Engineering,,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Male,355
+Edinburgh,United Kingdom,2017,Spring,English Language,Political Science,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Female,356
+Edinburgh,United Kingdom,2017,Spring,Economics,,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Male,357
+Edinburgh,United Kingdom,2017,Spring,Literary Arts,,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Male,358
+Edinburgh,United Kingdom,2017,Spring,Visual Art,Education,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Female,359
+Edinburgh,United Kingdom,2017,Spring,English Literature,,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Female,360
+Edinburgh,United Kingdom,2017,Spring,Biology,History,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Female,361
+Edinburgh,United Kingdom,2017,Spring,None,,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Male,362
+Edinburgh,United Kingdom,2017,Spring,English Literature,,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Female,363
+Edinburgh,United Kingdom,2017,Spring,Education,,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Female,364
+Edinburgh,United Kingdom,2017,Spring,English Literature,,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Female,365
+Edinburgh,United Kingdom,2017,Spring,Modern Culture and Media,,*Brown in the U.K. - University of Edinburgh,Spring 2017 ,Female,366
+Edinburgh,United Kingdom,2017,Spring,Biology,,*Brown in the U.K. - University of Edinburgh - Brown + 1 Program,Spring 2017 ,Female,367
+Edinburgh,United Kingdom,2017,Spring,Literary Arts,,*Brown in the U.K. - University of Edinburgh - Brown + 1 Program,Spring 2017 ,Male,368
+Edinburgh,United Kingdom,2018,Spring,PreMed,,*Brown in the U.K. - University of Edinburgh,Spring 2018 ,Female,369
+Edinburgh,United Kingdom,2018,Spring,Mechanical Engineering,,*Brown in the U.K. - University of Edinburgh,Spring 2018 ,Female,370
+Edinburgh,United Kingdom,2018,Spring,None,,*Brown in the U.K. - University of Edinburgh,Spring 2018 ,Male,371
+Edinburgh,United Kingdom,2018,Spring,History,,*Brown in the U.K. - University of Edinburgh,Spring 2018 ,Male,372
+Edinburgh,United Kingdom,2018,Spring,None,,*Brown in the U.K. - University of Edinburgh,Spring 2018 ,Female,373
+Edinburgh,United Kingdom,2018,Spring,Anthropology,English Literature,*Brown in the U.K. - University of Edinburgh,Spring 2018 ,Female,374
+Edinburgh,United Kingdom,2018,Spring,Archeology,,*Brown in the U.K. - University of Edinburgh,Spring 2018 ,Female,375
+Edinburgh,United Kingdom,2018,Spring,Engineering,,*Brown in the U.K. - University of Edinburgh,Spring 2018 ,Female,376
+Edinburgh,United Kingdom,2018,Spring,Modern Culture and Media,,*Brown in the U.K. - University of Edinburgh - Brown + 1 Program,Spring 2018 ,Female,377
+Edinburgh,United Kingdom,2018,Spring,English Literature,Medieval Studies,*Brown in the U.K. - University of Edinburgh - Brown + 1 Program,Spring 2018 ,Female,378
+Exeter,United Kingdom,2017,Spring,Physics,Geology,*Brown in the U.K. - University of Exeter,Spring 2017 ,Female,379
+Geneva,Switzerland,2016,Fall,International Relations,,Smith College - Université de Genève,Fall 2016 ,Female,380
+Geneva,Switzerland,2018,Fall,Yes,Neuroscience,SIT - Switzerland: Global Health and Development Policy,Fall 2018 ,Female,381
+Geneva,Switzerland,2018,Fall,Biology,,SIT - Switzerland: Global Health and Development Policy,Fall 2018 ,Female,382
+Geneva,Switzerland,2017,Spring,Political Science,,SIT - Switzerland: Global Health and Development Policy,Spring 2017 ,Female,383
+Geneva,Switzerland,2018,Spring,Development Studies,PreMed,SIT - Switzerland: Global Health and Development Policy,Spring 2018 ,Female,384
+Granada,Spain,2016,Fall,Yes,,*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2016 ,Female,388
+Granada,Spain,2016,Fall,International Relations,,*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2016 ,Female,389
+Granada,Spain,2016,Fall,Computer Science,None,*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2016 ,Female,390
+Granada,Spain,2016,Fall,Neuroscience,Neuroscience,*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2016 ,Male,391
+Granada,Spain,2016,Fall,International Relations,,*Brown in Granada Spain (CASA) - Intensive Language & Hispanic Studies Track,Fall 2016 ,Female,392
+Granada,Spain,2016,Fall,Political Science,History,*Brown in Granada Spain (CASA) - Intensive Language & Hispanic Studies Track,Fall 2016 ,Female,393
+Granada,Spain,2016,Fall,International Relations,,*Brown in Granada Spain (CASA) - Intensive Language & Hispanic Studies Track,Fall 2016 ,Female,394
+Granada,Spain,2016,Fall,Yes,,*Brown in Granada Spain (CASA) - Intensive Language & Hispanic Studies Track,Fall 2016 ,Female,395
+Granada,Spain,2016,Fall,Economics,Biology,*Brown in Granada Spain (CASA) - Intensive Language & Hispanic Studies Track,Fall 2016 ,Female,396
+Granada,Spain,2016,Fall,Political Science,,*Brown in Granada Spain (CASA) - Intensive Language & Hispanic Studies Track,Fall 2016 ,Male,397
+Granada,Spain,2016,Fall,English Literature,None,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2016 ,Female,398
+Granada,Spain,2016,Fall,None,,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2016 ,Female,399
+Granada,Spain,2016,Fall,Spanish,International Relations,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2016 ,Female,400
+Granada,Spain,2016,Fall,Spanish,Modern Culture and Media,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2016 ,Female,401
+Granada,Spain,2017,Fall,English Literature,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Fall 2017 ,Female,402
+Granada,Spain,2017,Fall,Literary Arts,History,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Fall 2017 ,Female,403
+Granada,Spain,2017,Fall,Yes,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Fall 2017 ,Female,404
+Granada,Spain,2017,Fall,History,Spanish,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Fall 2017 ,Female,405
+Granada,Spain,2017,Fall,International Relations,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Fall 2017 ,Female,406
+Granada,Spain,2017,Fall,Urban Studies,Public Policy and American Institutions,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2017 ,Male,407
+Granada,Spain,2017,Fall,Political Science,,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2017 ,Male,408
+Granada,Spain,2017,Fall,English Language,,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2017 ,Male,409
+Granada,Spain,2017,Fall,Comparative Literature,,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2017 ,Female,410
+Granada,Spain,2017,Fall,Biology,,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2017 ,Female,411
+Granada,Spain,2017,Fall,History,,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2017 ,Male,412
+Granada,Spain,2017,Fall,English Literature,None,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2017 ,Female,413
+Granada,Spain,2017,Fall,Computer Science,,*Brown in Granada Spain (CASA) - Translation Program,Fall 2017 ,Female,414
+Granada,Spain,2017,Fall,Comparative Literature,,*Brown in Granada Spain (CASA) - Translation Program,Fall 2017 ,Female,415
+Granada,Spain,2017,Fall,Economics,,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2017 ,Male,416
+Granada,Spain,2017,Fall,Middle East Studies,History,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2017 ,Male,417
+Granada,Spain,2017,Fall,Education,Development Studies,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2017 ,Female,418
+Granada,Spain,2018,Fall,Computer Science,Philosophy,*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2018 ,Male,419
+Granada,Spain,2018,Fall,Economics,,*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2018 ,Female,420
+Granada,Spain,2018,Fall,Literary Arts,,*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2018 ,Female,421
+Granada,Spain,2018,Fall,Economics,Business (General),*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2018 ,Female,422
+Granada,Spain,2018,Fall,Yes,,*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2018 ,Female,423
+Granada,Spain,2018,Fall,Computer Science,Comparative Literature,*Brown in Granada Spain (CASA) - Direct Enrollment,Fall 2018 ,Female,424
+Granada,Spain,2018,Fall,None,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Fall 2018 ,Female,425
+Granada,Spain,2018,Fall,Modern Culture and Media,Africana Studies,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Fall 2018 ,Female,426
+Granada,Spain,2018,Fall,Literary Arts,Philosophy,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Fall 2018 ,Male,427
+Granada,Spain,2018,Fall,Biology,,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2018 ,Female,428
+Granada,Spain,2018,Fall,English Literature,,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2018 ,Female,429
+Granada,Spain,2018,Fall,History,,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2018 ,Male,430
+Granada,Spain,2018,Fall,Computer Science,Modern Culture and Media,*Brown in Granada Spain (CASA) - Intensive Language Program,Fall 2018 ,Female,431
+Granada,Spain,2018,Fall,International Relations,Middle East Studies,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Female,432
+Granada,Spain,2018,Fall,Middle East Studies,None,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Female,433
+Granada,Spain,2018,Fall,Computer Science,Economics,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Male,434
+Granada,Spain,2018,Fall,Economics,Philosophy,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Male,435
+Granada,Spain,2018,Fall,No,Sociology,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Female,436
+Granada,Spain,2018,Fall,Religious Studies,,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Female,437
+Granada,Spain,2018,Fall,Psychology,Political Science,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Female,438
+Granada,Spain,2018,Fall,History,,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Male,439
+Granada,Spain,2018,Fall,Music,Psychology,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Female,440
+Granada,Spain,2018,Fall,Philosophy,Architecture,*Mid-Year Transfer Program - Brown in Spain *Restricted Application*,Fall 2018 ,Female,441
+Granada,Spain,2017,Spring,History,,*Brown in Granada Spain (CASA) - Direct Enrollment,Spring 2017 ,Female,442
+Granada,Spain,2017,Spring,Literary Arts,Spanish,*Brown in Granada Spain (CASA) - Direct Enrollment,Spring 2017 ,Female,443
+Granada,Spain,2017,Spring,Neuroscience,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2017 ,Female,444
+Granada,Spain,2017,Spring,Environmental Studies,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2017 ,Female,445
+Granada,Spain,2017,Spring,Political Science,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2017 ,Male,446
+Granada,Spain,2017,Spring,"Commerce, Organizations & Entrepreneurship",,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2017 ,Male,447
+Granada,Spain,2017,Spring,History,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2017 ,Female,448
+Granada,Spain,2017,Spring,None,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2017 ,Female,449
+Granada,Spain,2017,Spring,Economics,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2017 ,Male,450
+Granada,Spain,2017,Spring,International Relations,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2017 ,Male,451
+Granada,Spain,2017,Spring,Environmental Science,Visual Art,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2017 ,Female,452
+Granada,Spain,2017,Spring,Political Science,Literary Arts,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2017 ,Female,453
+Granada,Spain,2017,Spring,Archeology,,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2017 ,Female,454
+Granada,Spain,2017,Spring,Biology,,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2017 ,Female,455
+Granada,Spain,2017,Spring,Spanish,Computer Science,*Brown in Granada Spain (CASA) - Translation Program,Spring 2017 ,Female,456
+Granada,Spain,2017,Spring,Biology,Cognitive Science,*Brown in Granada Spain (CASA) - Translation Program,Spring 2017 ,Female,457
+Granada,Spain,2018,Spring,Biochemistry,,*Brown in Granada Spain (CASA) - Direct Enrollment,Spring 2018 ,Female,458
+Granada,Spain,2018,Spring,Neuroscience,,*Brown in Granada Spain (CASA) - Direct Enrollment,Spring 2018 ,Female,459
+Granada,Spain,2018,Spring,Business (General),,*Brown in Granada Spain (CASA) - Direct Enrollment,Spring 2018 ,Female,460
+Granada,Spain,2018,Spring,Education,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2018 ,Female,461
+Granada,Spain,2018,Spring,Computer Science,Visual Art,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2018 ,Female,462
+Granada,Spain,2018,Spring,Business (General),,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2018 ,Male,463
+Granada,Spain,2018,Spring,Comparative Literature,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2018 ,Female,464
+Granada,Spain,2018,Spring,Education,,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2018 ,Female,465
+Granada,Spain,2018,Spring,English Literature,Visual Art,*Brown in Granada Spain (CASA) - Hispanic Studies Program,Spring 2018 ,Male,466
+Granada,Spain,2018,Spring,Yes,,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2018 ,Female,467
+Granada,Spain,2018,Spring,Biology,,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2018 ,Male,468
+Granada,Spain,2018,Spring,Cognitive Neuroscience,,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2018 ,Female,469
+Granada,Spain,2018,Spring,Yes,,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2018 ,Female,470
+Granada,Spain,2018,Spring,History,Biology,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2018 ,Female,471
+Granada,Spain,2018,Spring,Physics,,*Brown in Granada Spain (CASA) - Intensive Language Program,Spring 2018 ,Male,472
+Granada,Spain,2018,Spring,English Literature,Spanish,*Brown in Granada Spain (CASA) - Translation Program,Spring 2018 ,Male,473
+Granada,Spain,2018,Spring,Education,,*Brown in Granada Spain (CASA) - Translation Program,Spring 2018 ,Female,474
+Granada,Spain,2018,Spring,Linguistics,,*Brown in Granada Spain (CASA) - Translation Program,Spring 2018 ,Female,475
+Haifa,Israel,2016,Fall,International Relations,Comparative Literature,University of Haifa - Direct Enrollment,Fall 2016 ,Male,476
+Harbin,"China, People's Republic of",2017,Fall,Biochemistry,,CET - Harbin Institute of Technology,Fall 2017 ,Male,477
+Harbin,"China, People's Republic of",2018,Spring,International Relations,,CET - Harbin Institute of Technology,Spring 2018 ,Female,478
+Havana,Cuba,2016,Fall,Education,,*Brown in Cuba (CASA),Fall 2016 ,Female,479
+Havana,Cuba,2016,Fall,Sociology,,*Brown in Cuba (CASA),Fall 2016 ,Female,480
+Havana,Cuba,2016,Fall,Comparative Literature,,*Brown in Cuba (CASA),Fall 2016 ,Female,481
+Havana,Cuba,2016,Fall,Spanish,,*Brown in Cuba (CASA),Fall 2016 ,Male,482
+Havana,Cuba,2016,Fall,International Relations,,*Brown in Cuba (CASA),Fall 2016 ,Female,483
+Havana,Cuba,2016,Fall,Development Studies,,*Brown in Cuba (CASA),Fall 2016 ,Female,484
+Havana,Cuba,2016,Fall,Music,,*Brown in Cuba (CASA),Fall 2016 ,Male,485
+Havana,Cuba,2016,Fall,Political Science,,*Brown in Cuba (CASA),Fall 2016 ,Female,486
+Havana,Cuba,2017,Fall,Africana Studies,,*Brown in Cuba (CASA),Fall 2017 ,Male,487
+Havana,Cuba,2017,Fall,Africana Studies,,*Brown in Cuba (CASA),Fall 2017 ,Female,488
+Havana,Cuba,2017,Fall,American Studies,Art History,*Brown in Cuba (CASA),Fall 2017 ,Female,489
+Havana,Cuba,2017,Fall,Biology,None,*Brown in Cuba (CASA),Fall 2017 ,Male,490
+Havana,Cuba,2017,Fall,International Relations,,*Brown in Cuba (CASA),Fall 2017 ,Female,491
+Havana,Cuba,2017,Fall,Spanish,Development Studies,*Brown in Cuba (CASA),Fall 2017 ,Female,492
+Havana,Cuba,2017,Fall,Computer Science,Africana Studies,*Brown in Cuba (CASA),Fall 2017 ,Male,493
+Havana,Cuba,2018,Fall,Public Policy and American Institutions,,*Brown in Cuba (CASA),Fall 2018 ,Female,494
+Havana,Cuba,2018,Fall,None,None,*Brown in Cuba (CASA),Fall 2018 ,Female,495
+Havana,Cuba,2018,Fall,Cognitive Neuroscience,Spanish,*Brown in Cuba (CASA),Fall 2018 ,Female,496
+Havana,Cuba,2018,Fall,English Literature,,*Brown in Cuba (CASA),Fall 2018 ,Male,497
+Havana,Cuba,2018,Fall,Africana Studies,Political Science,*Brown in Cuba (CASA),Fall 2018 ,Male,498
+Havana,Cuba,2017,Spring,Science,None,*Brown in Cuba (CASA),Spring 2017 ,Male,499
+Havana,Cuba,2017,Spring,International Relations,,*Brown in Cuba (CASA),Spring 2017 ,Female,500
+Havana,Cuba,2017,Spring,Neuroscience,,*Brown in Cuba (CASA),Spring 2017 ,Male,501
+Havana,Cuba,2018,Spring,Visual Art,Literary Arts,*Brown in Cuba (CASA),Spring 2018 ,Male,502
+Havana,Cuba,2018,Spring,None,,*Brown in Cuba (CASA),Spring 2018 ,Female,503
+Havana,Cuba,2018,Spring,Public Policy and American Institutions,,*Brown in Cuba (CASA),Spring 2018 ,Female,504
+Havana,Cuba,2018,Spring,Yes,,*Brown in Cuba (CASA),Spring 2018 ,Female,505
+Havana,Cuba,2018,Spring,History,,*Brown in Cuba (CASA),Spring 2018 ,Female,506
+Havana,Cuba,2018,Spring,Public Policy and American Institutions,,*Brown in Cuba (CASA),Spring 2018 ,Male,507
+Havana,Cuba,2018,Spring,Africana Studies,Public Policy and American Institutions,*Brown in Cuba (CASA),Spring 2018 ,Female,508
+Ho Chi Minh City,Vietnam,2018,Spring,English Literature,Biology,SIT - Viet Nam: Culture Social Change and Development,Spring 2018 ,Female,509
+Ho Chi Minh City,Vietnam,2018,Spring,Race and Ethnicity in America,,SIT - Viet Nam: Culture Social Change and Development,Spring 2018 ,Male,510
+Hong Kong,"China, People's Republic of",2016,Fall,Chemical Engineering,,*Brown in Hong Kong,Fall 2016 ,Female,512
+Hong Kong,"China, People's Republic of",2016,Fall,Computer Science,,*Brown in Hong Kong,Fall 2016 ,Male,513
+Hong Kong,"China, People's Republic of",2016,Fall,Computer Science,,*Brown in Hong Kong,Fall 2016 ,Male,514
+Hong Kong,"China, People's Republic of",2016,Fall,International Relations,None,*Brown in Hong Kong - Brown + 1 Program,Fall 2016 ,Male,515
+Hong Kong,"China, People's Republic of",2017,Fall,Cognitive Science,Computer Science,*Brown in Hong Kong,Fall 2017 ,Male,516
+Hong Kong,"China, People's Republic of",2017,Fall,Economics,,*Brown in Hong Kong,Fall 2017 ,Female,517
+Hong Kong,"China, People's Republic of",2017,Fall,Engineering,,*Brown in Hong Kong,Fall 2017 ,Female,518
+Hong Kong,"China, People's Republic of",2017,Fall,Economics,Religious Studies,*Brown in Hong Kong,Fall 2017 ,Male,519
+Hong Kong,"China, People's Republic of",2017,Fall,Political Science,Economics,*Brown in Hong Kong,Fall 2017 ,Male,520
+Hong Kong,"China, People's Republic of",2017,Fall,Art History,Philosophy,*Brown in Hong Kong,Fall 2017 ,Female,521
+Hong Kong,"China, People's Republic of",2018,Fall,International Relations,,*Brown in Hong Kong,Fall 2018 ,Female,522
+Hong Kong,"China, People's Republic of",2018,Fall,Cognitive Neuroscience,,*Brown in Hong Kong,Fall 2018 ,Female,523
+Hong Kong,"China, People's Republic of",2018,Fall,Asian Studies,Sociology,*Brown in Hong Kong,Fall 2018 ,Female,524
+Hong Kong,"China, People's Republic of",2018,Fall,International Relations,,*Brown in Hong Kong,Fall 2018 ,Female,525
+Hong Kong,"China, People's Republic of",2018,Fall,Computer Science,,*Brown in Hong Kong,Fall 2018 ,Female,526
+Hong Kong,"China, People's Republic of",2017,Spring,None,,*Brown in Hong Kong,Spring 2017 ,Male,527
+Hong Kong,"China, People's Republic of",2018,Spring,Engineering,,*Brown in Hong Kong,Spring 2018 ,Male,528
+Hong Kong,"China, People's Republic of",2018,Spring,Economics,,*Brown in Hong Kong,Spring 2018 ,Male,529
+Hong Kong,"China, People's Republic of",2018,Spring,International Relations,History,*Brown in Hong Kong - Brown + 1 Program,Spring 2018 ,Male,530
+Jerusalem,Israel,2017,Fall,Religious Studies,History,Hebrew University - Direct Enrollment,Fall 2017 ,Female,531
+Jerusalem,Israel,2017,Spring,International Relations,,Hebrew University - Direct Enrollment,Spring 2017 ,Male,532
+Jerusalem,Israel,2017,Spring,History,Judaic Studies,Hebrew University - Direct Enrollment,Spring 2017 ,Male,533
+Jerusalem,Israel,2017,Spring,History,,Hebrew University - Direct Enrollment,Spring 2017 ,Female,534
+Khon Kaen,Thailand,2017,Fall,Urban Studies,,CIEE - Khon Kaen University,Fall 2017 ,Male,535
+Kyoto,Japan,2018,Fall,Computer Science,Modern Culture and Media,*Brown in Japan,Fall 2018 ,Male,536
+Kyoto,Japan,2018,Spring,Modern Culture and Media,,*Brown in Japan,Spring 2018 ,Male,537
+Kyoto,Japan,2018,Spring,Engineering,,*Brown in Japan,Spring 2018 ,Male,538
+Kyoto,Japan,2018,Spring,East Asian Studies,Art History,*Brown in Japan,Spring 2018 ,Female,539
+Kyoto,Japan,2018,Spring,Computer Science,East Asian Studies,*Brown in Japan,Spring 2018 ,Male,540
+Legon,Ghana,2017,Spring,Sociology,American Studies,CIEE - University of Ghana,Spring 2017 ,Female,541
+London,United Kingdom,2016,Fall,Yes,,"*Brown in the U.K. - Goldsmiths College, University of London",Fall 2016 ,Female,548
+London,United Kingdom,2016,Fall,None,,*Brown in the U.K. - King's College London,Fall 2016 ,Female,549
+London,United Kingdom,2016,Fall,Biology,,*Brown in the U.K. - King's College London,Fall 2016 ,Female,550
+London,United Kingdom,2016,Fall,Business (General),,"*Brown in the U.K. - Queen Mary College, University of London",Fall 2016 ,Male,551
+London,United Kingdom,2016,Fall,Economics,,"*Brown in the U.K. - Queen Mary College, University of London",Fall 2016 ,Female,552
+London,United Kingdom,2016,Fall,Psychology,,*Brown in the U.K. - University College London,Fall 2016 ,Female,553
+London,United Kingdom,2016,Fall,Biology,Economics,*Brown in the U.K. - University College London,Fall 2016 ,Male,554
+London,United Kingdom,2016,Fall,Biochemistry,,*Brown in the U.K. - University College London,Fall 2016 ,Male,555
+London,United Kingdom,2016,Fall,No,,*Mid-Year Transfer Program - Brown in the UK - QUEEN MARY LONDON *Restricted Application*,Fall 2016 ,Male,556
+London,United Kingdom,2016,Fall,Art History,Political Science,*Mid-Year Transfer Program - Brown in the UK - QUEEN MARY LONDON *Restricted Application*,Fall 2016 ,Male,557
+London,United Kingdom,2016,Fall,English Literature,,*Mid-Year Transfer Program - Brown in the UK - QUEEN MARY LONDON *Restricted Application*,Fall 2016 ,Female,558
+London,United Kingdom,2016,Fall,History,Theatre Arts and Performance Studies,Fordham University - London Dramatic Academy,Fall 2016 ,Female,559
+London,United Kingdom,2017,Fall,Literary Arts,,"*Brown in the U.K. - Goldsmiths College, University of London",Fall 2017 ,Female,560
+London,United Kingdom,2017,Fall,Literary Arts,Comparative Literature,*Brown in the U.K. - King's College London,Fall 2017 ,Male,561
+London,United Kingdom,2017,Fall,International Relations,Classics,*Brown in the U.K. - King's College London,Fall 2017 ,Male,562
+London,United Kingdom,2017,Fall,None,,*Brown in the U.K. - King's College London,Fall 2017 ,Female,563
+London,United Kingdom,2017,Fall,Computer Science,,*Brown in the U.K. - King's College London,Fall 2017 ,Female,564
+London,United Kingdom,2017,Fall,None,,*Brown in the U.K. - King's College London,Fall 2017 ,Male,565
+London,United Kingdom,2017,Fall,English Literature,,*Brown in the U.K. - King's College London,Fall 2017 ,Female,566
+London,United Kingdom,2017,Fall,English Literature,,*Brown in the U.K. - King's College London,Fall 2017 ,Female,567
+London,United Kingdom,2017,Fall,Biology,,*Brown in the U.K. - King's College London,Fall 2017 ,Female,568
+London,United Kingdom,2017,Fall,Art History,None,"*Brown in the U.K. - Queen Mary College, University of London",Fall 2017 ,Female,569
+London,United Kingdom,2017,Fall,Economics,Development Studies,*Brown in the U.K. - School of Oriental and African Studies (SOAS),Fall 2017 ,Male,570
+London,United Kingdom,2017,Fall,International Relations,English Literature,*Brown in the U.K. - School of Oriental and African Studies (SOAS),Fall 2017 ,Female,571
+London,United Kingdom,2017,Fall,PreMed,,*Brown in the U.K. - University College London,Fall 2017 ,Female,572
+London,United Kingdom,2017,Fall,Geology,,*Brown in the U.K. - University College London,Fall 2017 ,Female,573
+London,United Kingdom,2017,Fall,Chemistry,,*Brown in the U.K. - University College London,Fall 2017 ,Male,574
+London,United Kingdom,2017,Fall,Economics,,*Brown in the U.K. - University College London,Fall 2017 ,Female,575
+London,United Kingdom,2017,Fall,Economics,,*Brown in the U.K. - University College London,Fall 2017 ,Male,576
+London,United Kingdom,2017,Fall,Economics,,*Brown in the U.K. - University College London,Fall 2017 ,Male,577
+London,United Kingdom,2017,Fall,Environmental Studies,,*Brown in the U.K. - University College London,Fall 2017 ,Female,578
+London,United Kingdom,2017,Fall,None,,*Brown in the U.K. - University College London,Fall 2017 ,Female,579
+London,United Kingdom,2017,Fall,Cognitive Neuroscience,,*Brown in the U.K. - University College London,Fall 2017 ,Female,580
+London,United Kingdom,2017,Fall,Economics,Political Science,*Mid-Year Transfer Program - Brown in the UK - QUEEN MARY LONDON *Restricted Application*,Fall 2017 ,Male,581
+London,United Kingdom,2017,Fall,Law,Film Studies,*Mid-Year Transfer Program - Brown in the UK - QUEEN MARY LONDON *Restricted Application*,Fall 2017 ,Female,582
+London,United Kingdom,2018,Fall,History of Art and Architecture,,*Brown in the U.K. - King's College London,Fall 2018 ,Female,583
+London,United Kingdom,2018,Fall,English Literature,,*Brown in the U.K. - King's College London,Fall 2018 ,Female,584
+London,United Kingdom,2018,Fall,Modern Culture and Media,,*Brown in the U.K. - King's College London,Fall 2018 ,Male,585
+London,United Kingdom,2018,Fall,English Literature,,*Brown in the U.K. - King's College London,Fall 2018 ,Female,586
+London,United Kingdom,2018,Fall,Literary Arts,Political Science,*Brown in the U.K. - King's College London,Fall 2018 ,Female,587
+London,United Kingdom,2018,Fall,English Literature,,*Brown in the U.K. - King's College London,Fall 2018 ,Female,588
+London,United Kingdom,2018,Fall,None,,*Brown in the U.K. - King's College London,Fall 2018 ,Male,589
+London,United Kingdom,2018,Fall,Environmental Science,None,"*Brown in the U.K. - Queen Mary College, University of London",Fall 2018 ,Female,590
+London,United Kingdom,2018,Fall,Economics,,"*Brown in the U.K. - Queen Mary College, University of London",Fall 2018 ,Male,591
+London,United Kingdom,2018,Fall,None,Modern Culture and Media,*Brown in the U.K. - University College London,Fall 2018 ,Female,592
+London,United Kingdom,2018,Fall,Economics,,*Brown in the U.K. - University College London,Fall 2018 ,Female,593
+London,United Kingdom,2018,Fall,Political Science,,*Brown in the U.K. - University College London,Fall 2018 ,Female,594
+London,United Kingdom,2017,Spring,Sociology,,*Brown in the U.K. - King's College London,Spring 2017 ,Female,595
+London,United Kingdom,2017,Spring,None,,*Brown in the U.K. - King's College London,Spring 2017 ,Female,596
+London,United Kingdom,2017,Spring,Biology,,*Brown in the U.K. - King's College London,Spring 2017 ,Female,597
+London,United Kingdom,2017,Spring,Mathematics,,*Brown in the U.K. - King's College London,Spring 2017 ,Male,598
+London,United Kingdom,2017,Spring,Biology,,*Brown in the U.K. - King's College London,Spring 2017 ,Female,599
+London,United Kingdom,2017,Spring,Engineering,,*Brown in the U.K. - King's College London,Spring 2017 ,Male,600
+London,United Kingdom,2017,Spring,Comparative Literature,,*Brown in the U.K. - King's College London,Spring 2017 ,Female,601
+London,United Kingdom,2017,Spring,International Relations,,*Brown in the U.K. - King's College London,Spring 2017 ,Female,602
+London,United Kingdom,2017,Spring,Biology,,*Brown in the U.K. - King's College London,Spring 2017 ,Female,603
+London,United Kingdom,2017,Spring,History,Literary Arts,*Brown in the U.K. - King's College London,Spring 2017 ,Male,604
+London,United Kingdom,2017,Spring,Yes,,*Brown in the U.K. - King's College London,Spring 2017 ,Female,605
+London,United Kingdom,2017,Spring,Yes,,*Brown in the U.K. - University College London,Spring 2017 ,Female,606
+London,United Kingdom,2017,Spring,Economics,Philosophy,*Brown in the U.K. - University College London,Spring 2017 ,Male,607
+London,United Kingdom,2017,Spring,Latin,,*Brown in the U.K. - University College London,Spring 2017 ,Male,608
+London,United Kingdom,2017,Spring,Neuroscience,None,*Brown in the U.K. - University College London,Spring 2017 ,Male,609
+London,United Kingdom,2017,Spring,History,,*Brown in the U.K. - University College London,Spring 2017 ,Female,610
+London,United Kingdom,2017,Spring,None,None,*Brown in the U.K. - University College London,Spring 2017 ,Female,611
+London,United Kingdom,2017,Spring,Computer Science,,*Brown in the U.K. - University College London,Spring 2017 ,Female,612
+London,United Kingdom,2018,Spring,Modern Culture and Media,Education,"*Brown in the U.K. - Goldsmiths College, University of London",Spring 2018 ,Female,613
+London,United Kingdom,2018,Spring,Biology,,*Brown in the U.K. - King's College London,Spring 2018 ,Male,614
+London,United Kingdom,2018,Spring,Biology,Visual Art,*Brown in the U.K. - King's College London,Spring 2018 ,Female,615
+London,United Kingdom,2018,Spring,Archeology,Middle East Studies,*Brown in the U.K. - School of Oriental and African Studies (SOAS),Spring 2018 ,Female,616
+London,United Kingdom,2018,Spring,None,Africana Studies,*Brown in the U.K. - University College London,Spring 2018 ,Female,617
+London,United Kingdom,2018,Spring,Africana Studies,Political Science,*Brown in the U.K. - University College London,Spring 2018 ,Female,618
+London,United Kingdom,2018,Spring,Computer Science,Urban Studies,*Brown in the U.K. - University College London,Spring 2018 ,Male,619
+Lyon,France,2016,Fall,Sociology,Mathematics,*Brown in France - Lyon,Fall 2016 ,Male,621
+Lyon,France,2016,Fall,Public Policy and American Institutions,,*Brown in France - Lyon,Fall 2016 ,Male,622
+Lyon,France,2016,Fall,International Relations,,*Brown in France - Lyon,Fall 2016 ,Female,623
+Lyon,France,2016,Fall,Philosophy,Cognitive Science,*Brown in France - Lyon,Fall 2016 ,Male,624
+Lyon,France,2016,Fall,Urban Studies,,*Brown in France - Lyon,Fall 2016 ,Female,625
+Lyon,France,2018,Fall,Psychology,,*Brown in France - Lyon,Fall 2018 ,Female,626
+Lyon,France,2018,Fall,Religious Studies,International Relations,*Brown in France - Lyon,Fall 2018 ,Female,627
+Lyon,France,2018,Fall,Statistical Sciences,Political Science,*Brown in France - Lyon,Fall 2018 ,Male,628
+Lyon,France,2018,Fall,Economics,,*Brown in France - Lyon,Fall 2018 ,Male,629
+Lyon,France,2018,Fall,Cognitive Science,,*Brown in France - Lyon,Fall 2018 ,Male,630
+Lyon,France,2018,Fall,Public Policy and American Institutions,Religious Studies,*Brown in France - Lyon,Fall 2018 ,Female,631
+Lyon,France,2017,Spring,International Relations,Economics,*Brown in France - Lyon,Spring 2017 ,Female,632
+Lyon,France,2017,Spring,International Relations,,*Brown in France - Lyon,Spring 2017 ,Male,633
+Lyon,France,2017,Spring,Africana Studies,French,*Brown in France - Lyon,Spring 2017 ,Male,634
+Lyon,France,2017,Spring,No,,*Brown in France - Lyon,Spring 2017 ,Female,635
+Lyon,France,2017,Spring,Cognitive Neuroscience,,*Brown in France - Lyon,Spring 2017 ,Female,636
+Lyon,France,2017,Spring,History,Comparative Literature,*Brown in France - Lyon,Spring 2017 ,Male,637
+Lyon,France,2017,Spring,None,,*Brown in France - Lyon,Spring 2017 ,Male,638
+Lyon,France,2018,Spring,International Relations,,*Brown in France - Lyon,Spring 2018 ,Female,639
+Lyon,France,2018,Spring,International Relations,Environmental Studies,*Brown in France - Lyon,Spring 2018 ,Male,640
+Lyon,France,2018,Spring,Music,,*Brown in France - Lyon,Spring 2018 ,Male,641
+Melbourne,Australia,2016,Fall,Public Policy and American Institutions,,IFSA Butler - University of Melbourne,Fall 2016 ,Male,643
+Melbourne,Australia,2016,Fall,Physics,,IFSA Butler - University of Melbourne,Fall 2016 ,Female,644
+Melbourne,Australia,2018,Fall,Engineering,,IFSA Butler - University of Melbourne,Fall 2018 ,Female,645
+Melbourne,Australia,2018,Fall,American Studies,,IFSA Butler - University of Melbourne,Fall 2018 ,Female,646
+Melbourne,Australia,2018,Spring,Psychology,,IFSA Butler - University of Melbourne,Spring 2018 ,Female,647
+Melbourne,Australia,2018,Spring,International Relations,,IFSA Butler - University of Melbourne,Spring 2018 ,Female,648
+Monteverde,Costa Rica,2018,Spring,Environmental Science,,CIEE - Monteverde Institute: Sustainability & the Environment,Spring 2018 ,Female,649
+Moscow,Russia,2017,Spring,International Relations,,Middlebury College - Russian State University for the Humanities,Spring 2017 ,Female,650
+Moscow,Russia,2017,Spring,Slavic Languages,Political Science,Middlebury College - Russian State University for the Humanities,Spring 2017 ,Male,651
+Paris,France,2016,Fall,Urban Studies,Economics,*Brown in France - Paris,Fall 2016 ,Male,684
+Paris,France,2016,Fall,Economics,,*Brown in France - Paris,Fall 2016 ,Male,685
+Paris,France,2016,Fall,Mathematics,,*Brown in France - Paris,Fall 2016 ,Female,686
+Paris,France,2016,Fall,Yes,,*Brown in France - Paris,Fall 2016 ,Male,687
+Paris,France,2016,Fall,International Relations,,*Brown in France - Paris,Fall 2016 ,Male,688
+Paris,France,2016,Fall,Economics,,*Brown in France - Paris,Fall 2016 ,Male,689
+Paris,France,2016,Fall,English Literature,,*Brown in France - Paris,Fall 2016 ,Female,690
+Paris,France,2016,Fall,None,French,*Brown in France - Paris,Fall 2016 ,Male,691
+Paris,France,2016,Fall,Natural Sciences,,*Brown in France - Paris,Fall 2016 ,Female,692
+Paris,France,2016,Fall,Comparative Literature,,*Brown in France - Paris,Fall 2016 ,Female,693
+Paris,France,2017,Fall,Public Policy and American Institutions,French,*Brown in France - Paris,Fall 2017 ,Female,694
+Paris,France,2017,Fall,Art History,,*Brown in France - Paris,Fall 2017 ,Female,695
+Paris,France,2017,Fall,History,,*Brown in France - Paris,Fall 2017 ,Female,696
+Paris,France,2017,Fall,International Relations,,*Brown in France - Paris,Fall 2017 ,Female,697
+Paris,France,2017,Fall,French,Literary Arts,*Brown in France - Paris,Fall 2017 ,Male,698
+Paris,France,2017,Fall,International Relations,None,*Brown in France - Paris,Fall 2017 ,Female,699
+Paris,France,2017,Fall,French,,*Brown in France - Paris,Fall 2017 ,Female,700
+Paris,France,2017,Fall,International Relations,French,*Brown in France - Paris,Fall 2017 ,Female,701
+Paris,France,2017,Fall,Theatre Arts and Performance Studies,French,*Brown in France - Paris,Fall 2017 ,Male,702
+Paris,France,2017,Fall,History,International Relations,*Brown in France - Paris,Fall 2017 ,Female,703
+Paris,France,2017,Fall,Education,History,*Brown in France - Paris,Fall 2017 ,Female,704
+Paris,France,2017,Fall,Comparative Literature,Economics,*Brown in France - Paris,Fall 2017 ,Female,705
+Paris,France,2017,Fall,Literary Arts,Political Science,*Brown in France - Paris,Fall 2017 ,Female,706
+Paris,France,2017,Fall,International Relations,,*Brown in France - Paris,Fall 2017 ,Female,707
+Paris,France,2017,Fall,Classics,,*Brown in France - Paris,Fall 2017 ,Male,708
+Paris,France,2017,Fall,International Relations,,*Brown in France - Paris,Fall 2017 ,Female,709
+Paris,France,2017,Fall,Political Science,Economics,*Brown in France - Paris,Fall 2017 ,Female,710
+Paris,France,2017,Fall,International Relations,,*Brown in France - Paris,Fall 2017 ,Female,711
+Paris,France,2018,Fall,Computational Biology,,*Brown in France - Paris,Fall 2018 ,Male,712
+Paris,France,2018,Fall,International Relations,,*Brown in France - Paris,Fall 2018 ,Female,713
+Paris,France,2018,Fall,Environmental Studies,,*Brown in France - Paris,Fall 2018 ,Female,714
+Paris,France,2018,Fall,Computer Science,,*Brown in France - Paris,Fall 2018 ,Female,715
+Paris,France,2017,Spring,Computer Science,,*Brown in France - Paris,Spring 2017 ,Male,716
+Paris,France,2017,Spring,International Relations,,*Brown in France - Paris,Spring 2017 ,Female,717
+Paris,France,2017,Spring,Comparative Literature,Public Policy and American Institutions,*Brown in France - Paris,Spring 2017 ,Female,718
+Paris,France,2017,Spring,Computer Science,French,*Brown in France - Paris,Spring 2017 ,Female,719
+Paris,France,2017,Spring,Economics,None,*Brown in France - Paris,Spring 2017 ,Female,720
+Paris,France,2017,Spring,Psychology,,*Brown in France - Paris,Spring 2017 ,Male,721
+Paris,France,2017,Spring,Neuroscience,,*Brown in France - Paris,Spring 2017 ,Male,722
+Paris,France,2017,Spring,Public Policy and American Institutions,,*Brown in France - Paris,Spring 2017 ,Female,723
+Paris,France,2017,Spring,Computer Science,None,*Brown in France - Paris Engineering Program,Spring 2017 ,Female,724
+Paris,France,2018,Spring,Biology,,*Brown in France - Paris,Spring 2018 ,Female,725
+Paris,France,2018,Spring,Public Policy and American Institutions,,*Brown in France - Paris,Spring 2018 ,Male,726
+Paris,France,2018,Spring,Slavic Languages,Theatre Arts and Performance Studies,*Brown in France - Paris,Spring 2018 ,Female,727
+Paris,France,2018,Spring,History,,*Brown in France - Paris,Spring 2018 ,Female,728
+Paris,France,2018,Spring,International Relations,French,*Brown in France - Paris,Spring 2018 ,Male,729
+Paris,France,2018,Spring,Theatre Arts and Performance Studies,Comparative Literature,*Brown in France - Paris,Spring 2018 ,Male,730
+Paris,France,2018,Spring,English Literature,,*Brown in France - Paris,Spring 2018 ,Female,731
+Paris,France,2018,Spring,Comparative Literature,,*Brown in France - Paris,Spring 2018 ,Female,732
+Paris,France,2018,Spring,English Literature,Music,*Brown in France - Paris,Spring 2018 ,Female,733
+Paris,France,2018,Spring,Race and Ethnicity in America,,*Brown in France - Paris,Spring 2018 ,Female,734
+Paris,France,2018,Spring,International Relations,,*Brown in France - Paris,Spring 2018 ,Male,735
+Paris,France,2018,Spring,Comparative Literature,,*Brown in France - Paris,Spring 2018 ,Female,736
+Paris,France,2018,Spring,Economics,Art History,*Brown in France - Paris,Spring 2018 ,Female,737
+Paris,France,2018,Spring,History of Art and Architecture,,*Brown in France - Paris,Spring 2018 ,Female,738
+Paris,France,2018,Spring,Architecture,Modern Culture and Media,*Brown in France - Paris,Spring 2018 ,Male,739
+Paris,France,2018,Spring,Computer Science,Theatre Arts and Performance Studies,*Brown in France - Paris,Spring 2018 ,Female,740
+Paris,France,2018,Spring,Electrical Engineering,,*Brown in France - Paris Engineering Program,Spring 2018 ,Female,741
+Paris,France,2018,Spring,Engineering,,*Brown in France - Paris Engineering Program,Spring 2018 ,Female,742
+Paris,France,2018,Spring,Engineering,,*Brown in France - Paris Engineering Program,Spring 2018 ,Female,743
+Paris,France,2018,Spring,Comparative Literature,,IFE - Internships in Francophone Europe,Spring 2018 ,Female,744
+Prague,Czech Republic,2018,Spring,Visual Art,Modern Culture and Media,CET - Film Studies in Prague (Fall and Spring),Spring 2018 ,Female,745
+Quito,Ecuador,2016,Fall,French,None,IFSA Butler - Pachaysana Institute,Fall 2016 ,Female,746
+Quito,Ecuador,2018,Spring,Music,,IFSA Butler - Pachaysana Institute,Spring 2018 ,Male,747
+Rabat,Morocco,2018,Spring,Psychology,,SIT - Morocco: Multiculturalism and Human Rights,Spring 2018 ,Male,748
+Rio de Janiero,Brazil,2016,Fall,Political Science,,*Brown in Brazil PUC Rio (CASA),Fall 2016 ,Male,749
+Rio de Janiero,Brazil,2016,Fall,Biology,,*Brown in Brazil PUC Rio (CASA),Fall 2016 ,Female,750
+Rio de Janiero,Brazil,2016,Fall,None,,*Brown in Brazil PUC Rio (CASA),Fall 2016 ,Female,751
+Rio de Janiero,Brazil,2016,Fall,Comparative Literature,Portuguese and Brazilian Studies,*Brown in Brazil PUC Rio (CASA),Fall 2016 ,Male,752
+Rio de Janiero,Brazil,2016,Fall,International Relations,,*Brown in Brazil PUC Rio (CASA),Fall 2016 ,Female,753
+Rio de Janiero,Brazil,2017,Fall,Economics,Middle East Studies,*Brown in Brazil PUC Rio (CASA),Fall 2017 ,Male,754
+Rio de Janiero,Brazil,2017,Fall,Modern Culture and Media,,*Brown in Brazil PUC Rio (CASA),Fall 2017 ,Female,755
+Rio de Janiero,Brazil,2017,Fall,Economics,,*Brown in Brazil PUC Rio (CASA),Fall 2017 ,Female,756
+Rio de Janiero,Brazil,2017,Fall,Africana Studies,,*Brown in Brazil PUC Rio (CASA),Fall 2017 ,Female,757
+Rio de Janiero,Brazil,2017,Fall,Economics,History,*Brown in Brazil PUC Rio (CASA),Fall 2017 ,Female,758
+Rio de Janiero,Brazil,2017,Fall,Anthropology,,*Brown in Brazil PUC Rio (CASA),Fall 2017 ,Male,759
+Rio de Janiero,Brazil,2018,Fall,International Relations,Portuguese and Brazilian Studies,*Brown in Brazil PUC Rio (CASA),Fall 2018 ,Male,760
+Rio de Janiero,Brazil,2018,Fall,International Relations,Economics,*Brown in Brazil PUC Rio (CASA),Fall 2018 ,Male,761
+Rome,Italy,2016,Fall,Visual Art,None,RISD: European Honors Program (EHP) Restricted to Students in One or More Specific Concentrations - *See Note,Fall 2016 ,Female,762
+Rome,Italy,2017,Fall,Architecture,No,Cornell University in Rome Restricted to Students in One or More Specific Concentrations - *See Note,Fall 2017 ,Female,763
+Rome,Italy,2018,Fall,Art History,Cognitive Science,Cornell University in Rome Restricted to Students in One or More Specific Concentrations - *See Note,Fall 2018 ,Female,764
+Rome,Italy,2018,Fall,Architecture,,RISD: European Honors Program (EHP) Restricted to Students in One or More Specific Concentrations - *See Note,Fall 2018 ,Male,765
+Rome,Italy,2017,Spring,Political Science,Anthropology,Cornell University in Rome Restricted to Students in One or More Specific Concentrations - *See Note,Spring 2017 ,Male,766
+Rome,Italy,2017,Spring,History of Art and Architecture,,Cornell University in Rome Restricted to Students in One or More Specific Concentrations - *See Note,Spring 2017 ,Female,767
+Rome,Italy,2017,Spring,Classics,Economics,Duke University - Intercollegiate Center for Classical Studies Restricted to Students in One or More Specific Concentrations - *See Note,Spring 2017 ,Female,768
+Rome,Italy,2018,Spring,Classics,Archeology,Duke University - Intercollegiate Center for Classical Studies Restricted to Students in One or More Specific Concentrations - *See Note,Spring 2018 ,Female,769
+Rome,Italy,2018,Spring,Visual Art,,Temple University - Tyler School of ArtRestricted to Students in One or More Specific Concentrations - *See Note,Spring 2018 ,Female,770
+Santiago,Chile,2016,Fall,International Relations,,*Brown in Chile (CASA),Fall 2016 ,Female,772
+Santiago,Chile,2016,Fall,American Studies,,*Brown in Chile (CASA),Fall 2016 ,Male,773
+Santiago,Chile,2016,Fall,International Relations,,*Brown in Chile (CASA),Fall 2016 ,Male,774
+Santiago,Chile,2017,Fall,Development Studies,Economics,*Brown in Chile (CASA),Fall 2017 ,Female,775
+Santiago,Chile,2018,Fall,Political Science,,*Brown in Chile (CASA),Fall 2018 ,Female,776
+Santiago,Chile,2018,Fall,Public Policy and American Institutions,,*Brown in Chile (CASA),Fall 2018 ,Female,777
+Santiago,Chile,2018,Fall,International Relations,,*Brown in Chile (CASA),Fall 2018 ,Male,778
+Santiago,Chile,2018,Fall,Physics,,*Brown in Chile (CASA),Fall 2018 ,Male,779
+Santiago,Chile,2017,Spring,Comparative Literature,,*Brown in Chile (CASA),Spring 2017 ,Female,780
+Santiago,Chile,2017,Spring,Education,None,*Brown in Chile (CASA),Spring 2017 ,Female,781
+Santiago,Chile,2017,Spring,Environmental Studies,,*Brown in Chile (CASA),Spring 2017 ,Female,782
+Santiago,Chile,2018,Spring,Biology,,*Brown in Chile (CASA),Spring 2018 ,Male,783
+Santiago,Chile,2018,Spring,International Relations,,*Brown in Chile (CASA),Spring 2018 ,Female,784
+Santiago,Chile,2018,Spring,Neuroscience,,*Brown in Chile (CASA),Spring 2018 ,Female,785
+Santiago,Chile,2018,Spring,No,Biology,*Brown in Chile (CASA),Spring 2018 ,Female,786
+Santiago,Chile,2018,Spring,Development Studies,,*Brown in Chile (CASA),Spring 2018 ,Male,787
+Seoul,South Korea,2016,Fall,Computer Science,,"CIEE - Yonsei University, South Korea",Fall 2016 ,Female,788
+Seoul,South Korea,2017,Fall,Political Science,,"CIEE - Yonsei University, South Korea",Fall 2017 ,Male,789
+Seoul,South Korea,2017,Fall,History,,"CIEE - Yonsei University, South Korea",Fall 2017 ,Female,790
+Seoul,South Korea,2018,Fall,Public Policy and American Institutions,,"CIEE - Yonsei University, South Korea",Fall 2018 ,Female,791
+Seoul,South Korea,2017,Spring,International Relations,,"CIEE - Yonsei University, South Korea",Spring 2017 ,Male,792
+Seoul,South Korea,2017,Spring,Public Policy and American Institutions,Economics,Ewha Womans University - Direct Enrollment,Spring 2017 ,Female,793
+Seoul,South Korea,2017,Spring,Biology,,Ewha Womans University - Direct Enrollment,Spring 2017 ,Female,794
+Seoul,South Korea,2018,Spring,Computer Science,,"CIEE - Yonsei University, South Korea",Spring 2018 ,Male,795
+Shanghai,"China, People's Republic of",2016,Fall,Development Studies,East Asian Studies,IFSA-Butler/Alliance: Fudan University,Fall 2016 ,Female,796
+Shanghai,"China, People's Republic of",2017,Fall,Political Science,,IFSA-Butler/Alliance: Fudan University,Fall 2017 ,Female,797
+Shanghai,"China, People's Republic of",2017,Spring,International Relations,,IFSA-Butler/Alliance: Fudan University,Spring 2017 ,Female,798
+Shanghai,"China, People's Republic of",2018,Spring,East Asian Studies,,IFSA-Butler/Alliance: Fudan University,Spring 2018 ,Male,799
+Shanghai,"China, People's Republic of",2018,Spring,None,,IFSA-Butler/Alliance: Fudan University,Spring 2018 ,Female,800
+Singapore,Singapore,2017,Spring,Yes,,National University of Singapore - Direct Enrollment,Spring 2017 ,Female,801
+St. Andrews,United Kingdom,2017,Spring,Computer Science,,*Brown in the U.K. - University of St. Andrews,Spring 2017 ,Female,802
+St. Andrews,United Kingdom,2018,Spring,Physics,,*Brown in the U.K. - University of St. Andrews,Spring 2018 ,Male,803
+St. Petersburg,Russia,2018,Spring,History,,CIEE - St. Petersburg State University,Spring 2018 ,Male,804
+Stockholm,Sweden,2016,Fall,None,,The Swedish Program,Fall 2016 ,Female,806
+Stockholm,Sweden,2016,Fall,Economics,History,The Swedish Program,Fall 2016 ,Female,807
+Stockholm,Sweden,2017,Fall,Literary Arts,Economics,The Swedish Program,Fall 2017 ,Female,808
+Stockholm,Sweden,2018,Fall,English Literature,,The Swedish Program,Fall 2018 ,Female,809
+Stockholm,Sweden,2018,Fall,Public Policy and American Institutions,,The Swedish Program,Fall 2018 ,Female,810
+Stockholm,Sweden,2017,Spring,Economics,English Literature,The Swedish Program,Spring 2017 ,Male,811
+Stockholm,Sweden,2017,Spring,Political Science,None,The Swedish Program,Spring 2017 ,Male,812
+Sydney,Australia,2016,Fall,Political Science,,Arcadia University - University of New South Wales,Fall 2016 ,Female,814
+Sydney,Australia,2016,Fall,Economics,Literary Arts,Arcadia University - University of New South Wales,Fall 2016 ,Male,815
+Sydney,Australia,2016,Fall,English Literature,,Arcadia University - University of New South Wales,Fall 2016 ,Female,816
+Sydney,Australia,2016,Fall,Neuroscience,,Arcadia University - University of New South Wales,Fall 2016 ,Female,817
+Sydney,Australia,2017,Fall,Economics,Architecture,Arcadia University - University of New South Wales,Fall 2017 ,Male,818
+Sydney,Australia,2017,Fall,History,,Arcadia University - University of Sydney,Fall 2017 ,Female,819
+Sydney,Australia,2017,Fall,Biology,,Arcadia University - University of Sydney,Fall 2017 ,Female,820
+Sydney,Australia,2018,Fall,Economics,,Arcadia University - University of Sydney,Fall 2018 ,Male,821
+Sydney,Australia,2017,Spring,History,,Arcadia University - University of New South Wales,Spring 2017 ,Female,822
+Sydney,Australia,2017,Spring,None,,Arcadia University - University of Sydney,Spring 2017 ,Male,823
+Sydney,Australia,2017,Spring,Archeology,Egyptology,Arcadia University - University of Sydney,Spring 2017 ,Female,824
+Sydney,Australia,2017,Spring,Yes,,Arcadia University - University of Sydney,Spring 2017 ,Female,825
+Sydney,Australia,2017,Spring,Business (General),,Arcadia University - University of Sydney,Spring 2017 ,Female,826
+Sydney,Australia,2018,Spring,Biology,,Arcadia University - University of New South Wales,Spring 2018 ,Female,827
+Taipei,Taiwan,2017,Fall,International Relations,,CIEE - National Chengchi University,Fall 2017 ,Female,828
+Tel Aviv,Israel,2018,Spring,History,,Tel Aviv University - Direct Enrollment,Spring 2018 ,Female,829
+Thessaloniki,Greece,2016,Fall,None,,American College of Thessaloniki,Fall 2016 ,Male,830
+Thessaloniki,Greece,2017,Fall,Cognitive Neuroscience,,American College of Thessaloniki,Fall 2017 ,Female,831
+Thessaloniki,Greece,2018,Fall,Political Science,,American College of Thessaloniki,Fall 2018 ,Male,832
+Tokyo,Japan,2016,Fall,East Asian Studies,,CIEE - Sophia University,Fall 2016 ,Female,833
+Tokyo,Japan,2017,Spring,Engineering,None,Keio University - Direct Enrollment,Spring 2017 ,Male,834
+Tokyo,Japan,2018,Spring,Linguistics,Public Policy and American Institutions,CIEE - Sophia University,Spring 2018 ,Male,835
+Tokyo,Japan,2018,Spring,Cognitive Neuroscience,,CIEE - Sophia University,Spring 2018 ,Female,836
+Tokyo,Japan,2018,Spring,Natural Sciences,,CIEE - Sophia University,Spring 2018 ,Male,837
+Tokyo,Japan,2018,Spring,Comparative Literature,,Keio University - Direct Enrollment,Spring 2018 ,Male,838
+Tokyo,Japan,2018,Spring,Yes,,Keio University - Direct Enrollment,Spring 2018 ,Male,839
+Tokyo,Japan,2018,Spring,Mechanical Engineering,,Keio University - Direct Enrollment,Spring 2018 ,Male,840
+Tokyo,Japan,2018,Spring,Comparative Literature,,Keio University - Direct Enrollment,Spring 2018 ,Male,841
+Yaroslavl,Russia,2017,Spring,Slavic Languages,English Literature,Middlebury College - Yaroslavl State University,Spring 2017 ,Female,842
+Cambridge,United Kingdom,2016,"Fall, Spring",Physics,,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,173
+Cambridge,United Kingdom,2017,"Fall, Spring",Physics,,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,173
+Cambridge,United Kingdom,2016,"Fall, Spring",Mathematics,Classics,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,174
+Cambridge,United Kingdom,2017,"Fall, Spring",Mathematics,Classics,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,174
+Cambridge,United Kingdom,2017,"Fall, Spring",International Relations,,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,175
+Cambridge,United Kingdom,2018,"Fall, Spring",International Relations,,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,175
+Cambridge,United Kingdom,2017,"Fall, Spring",Science,,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,176
+Cambridge,United Kingdom,2018,"Fall, Spring",Science,,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,176
+Cambridge,United Kingdom,2018,"Fall, Spring",History,None,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2018 and Spring 2019 ,Male,177
+Cambridge,United Kingdom,2019,"Fall, Spring",History,None,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2018 and Spring 2019 ,Male,177
+Cambridge,United Kingdom,2018,"Fall, Spring",English Literature,,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2018 and Spring 2019 ,Male,178
+Cambridge,United Kingdom,2019,"Fall, Spring",English Literature,,"*Brown in the U.K. - Cambridge University, Pembroke College",Entire Year - Fall 2018 and Spring 2019 ,Male,178
+Dublin,Ireland,2016,"Fall, Spring",Political Science,,*Brown in Ireland (CASA) - Trinity College - Brown + 1 Program,Entire Year - Fall 2016 and Spring 2017 ,Male,275
+Dublin,Ireland,2017,"Fall, Spring",Political Science,,*Brown in Ireland (CASA) - Trinity College - Brown + 1 Program,Entire Year - Fall 2016 and Spring 2017 ,Male,275
+Dublin,Ireland,2018,"Fall, Spring",Classics,,*Brown in Ireland (CASA) - Trinity College,Entire Year - Fall 2018 and Spring 2019 ,Female,276
+Dublin,Ireland,2019,"Fall, Spring",Classics,,*Brown in Ireland (CASA) - Trinity College,Entire Year - Fall 2018 and Spring 2019 ,Female,276
+Edinburgh,United Kingdom,2018,"Fall, Spring",None,,*Brown in the U.K. - University of Edinburgh,Entire Year - Fall 2018 and Spring 2019 ,Male,319
+Edinburgh,United Kingdom,2019,"Fall, Spring",None,,*Brown in the U.K. - University of Edinburgh,Entire Year - Fall 2018 and Spring 2019 ,Male,319
+Edinburgh,United Kingdom,2018,"Fall, Spring",Political Science,Modern Culture and Media,*Brown in the U.K. - University of Edinburgh,Entire Year - Fall 2018 and Spring 2019 ,Male,320
+Edinburgh,United Kingdom,2019,"Fall, Spring",Political Science,Modern Culture and Media,*Brown in the U.K. - University of Edinburgh,Entire Year - Fall 2018 and Spring 2019 ,Male,320
+Edinburgh,United Kingdom,2018,"Fall, Spring",Physics,,*Brown in the U.K. - University of Edinburgh,Entire Year - Fall 2018 and Spring 2019 ,Female,321
+Edinburgh,United Kingdom,2019,"Fall, Spring",Physics,,*Brown in the U.K. - University of Edinburgh,Entire Year - Fall 2018 and Spring 2019 ,Female,321
+Edinburgh,United Kingdom,2018,"Fall, Spring",Literary Arts,English Literature,*Brown in the U.K. - University of Edinburgh,Entire Year - Fall 2018 and Spring 2019 ,Female,322
+Edinburgh,United Kingdom,2019,"Fall, Spring",Literary Arts,English Literature,*Brown in the U.K. - University of Edinburgh,Entire Year - Fall 2018 and Spring 2019 ,Female,322
+Glasgow,United Kingdom,2017,"Fall, Spring",Visual Art,,*Brown in the U.K. - Glasgow School of Art,Entire Year - Fall 2017 and Spring 2018 ,Female,385
+Glasgow,United Kingdom,2018,"Fall, Spring",Visual Art,,*Brown in the U.K. - Glasgow School of Art,Entire Year - Fall 2017 and Spring 2018 ,Female,385
+Granada,Spain,2017,"Fall, Spring",Urban Studies,,*Brown in Granada Spain (CASA) - Direct Enrollment,Entire Year - Fall 2017 and Spring 2018 ,Female,386
+Granada,Spain,2018,"Fall, Spring",Urban Studies,,*Brown in Granada Spain (CASA) - Direct Enrollment,Entire Year - Fall 2017 and Spring 2018 ,Female,386
+Granada,Spain,2018,"Fall, Spring",Political Science,,*Brown in Granada Spain (CASA) - Direct Enrollment,Entire Year - Fall 2018 and Spring 2019 ,Female,387
+Granada,Spain,2019,"Fall, Spring",Political Science,,*Brown in Granada Spain (CASA) - Direct Enrollment,Entire Year - Fall 2018 and Spring 2019 ,Female,387
+Hong Kong,"China, People's Republic of",2018,"Fall, Spring",Computer Science,None,*Brown in Hong Kong,Entire Year - Fall 2018 and Spring 2019 ,Male,511
+Hong Kong,"China, People's Republic of",2019,"Fall, Spring",Computer Science,None,*Brown in Hong Kong,Entire Year - Fall 2018 and Spring 2019 ,Male,511
+London,United Kingdom,2016,"Fall, Spring",Mathematics,,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2016 and Spring 2017 ,Male,542
+London,United Kingdom,2017,"Fall, Spring",Mathematics,,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2016 and Spring 2017 ,Male,542
+London,United Kingdom,2017,"Fall, Spring",International Relations,None,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2017 and Spring 2018 ,Male,543
+London,United Kingdom,2018,"Fall, Spring",International Relations,None,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2017 and Spring 2018 ,Male,543
+London,United Kingdom,2018,"Fall, Spring",Literary Arts,,*Brown in the U.K. - King's College London,Entire Year - Fall 2018 and Spring 2019 ,Female,544
+London,United Kingdom,2019,"Fall, Spring",Literary Arts,,*Brown in the U.K. - King's College London,Entire Year - Fall 2018 and Spring 2019 ,Female,544
+London,United Kingdom,2018,"Fall, Spring",Yes,,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2018 and Spring 2019 ,Male,545
+London,United Kingdom,2019,"Fall, Spring",Yes,,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2018 and Spring 2019 ,Male,545
+London,United Kingdom,2018,"Fall, Spring",Economics,,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2018 and Spring 2019 ,Female,546
+London,United Kingdom,2019,"Fall, Spring",Economics,,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2018 and Spring 2019 ,Female,546
+London,United Kingdom,2018,"Fall, Spring",International Relations,Middle East Studies,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2018 and Spring 2019 ,Female,547
+London,United Kingdom,2019,"Fall, Spring",International Relations,Middle East Studies,*Brown in the U.K. - London School of Economics & Political Science,Entire Year - Fall 2018 and Spring 2019 ,Female,547
+Lyon,France,2017,"Fall, Spring",None,,*Brown in France - Lyon,Entire Year - Fall 2017 and Spring 2018 ,Female,620
+Lyon,France,2018,"Fall, Spring",None,,*Brown in France - Lyon,Entire Year - Fall 2017 and Spring 2018 ,Female,620
+Melbourne,Australia,2017,"Fall, Spring",Philosophy,Music,IFSA Butler - University of Melbourne,Entire Year - Fall 2017 and Spring 2018 ,Male,642
+Melbourne,Australia,2018,"Fall, Spring",Philosophy,Music,IFSA Butler - University of Melbourne,Entire Year - Fall 2017 and Spring 2018 ,Male,642
+Oxford,United Kingdom,2016,"Fall, Spring",International Relations,East Asian Studies,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2016 and Spring 2017 ,Female,652
+Oxford,United Kingdom,2017,"Fall, Spring",International Relations,East Asian Studies,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2016 and Spring 2017 ,Female,652
+Oxford,United Kingdom,2016,"Fall, Spring",English Literature,,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2016 and Spring 2017 ,Female,653
+Oxford,United Kingdom,2017,"Fall, Spring",English Literature,,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2016 and Spring 2017 ,Female,653
+Oxford,United Kingdom,2016,"Fall, Spring",None,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,654
+Oxford,United Kingdom,2017,"Fall, Spring",None,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,654
+Oxford,United Kingdom,2016,"Fall, Spring",Economics,Theatre Arts and Performance Studies,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,655
+Oxford,United Kingdom,2017,"Fall, Spring",Economics,Theatre Arts and Performance Studies,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,655
+Oxford,United Kingdom,2016,"Fall, Spring",International Relations,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Female,656
+Oxford,United Kingdom,2017,"Fall, Spring",International Relations,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Female,656
+Oxford,United Kingdom,2016,"Fall, Spring",None,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,657
+Oxford,United Kingdom,2017,"Fall, Spring",None,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2016 and Spring 2017 ,Male,657
+Oxford,United Kingdom,2016,"Fall, Spring",Classics,International Relations,"*Brown in the U.K. - Oxford University, St. Anne's College",Entire Year - Fall 2016 and Spring 2017 ,Male,658
+Oxford,United Kingdom,2017,"Fall, Spring",Classics,International Relations,"*Brown in the U.K. - Oxford University, St. Anne's College",Entire Year - Fall 2016 and Spring 2017 ,Male,658
+Oxford,United Kingdom,2016,"Fall, Spring",None,,"*Brown in the U.K. - Oxford University, St. Edmund Hall",Entire Year - Fall 2016 and Spring 2017 ,Male,659
+Oxford,United Kingdom,2017,"Fall, Spring",None,,"*Brown in the U.K. - Oxford University, St. Edmund Hall",Entire Year - Fall 2016 and Spring 2017 ,Male,659
+Oxford,United Kingdom,2016,"Fall, Spring",No,No,"*Brown in the U.K. - Oxford University, St. Peter's College",Entire Year - Fall 2016 and Spring 2017 ,Female,660
+Oxford,United Kingdom,2017,"Fall, Spring",No,No,"*Brown in the U.K. - Oxford University, St. Peter's College",Entire Year - Fall 2016 and Spring 2017 ,Female,660
+Oxford,United Kingdom,2016,"Fall, Spring",Archeology,Environmental Studies,"*Brown in the U.K. - Oxford University, St. Peter's College",Entire Year - Fall 2016 and Spring 2017 ,Male,661
+Oxford,United Kingdom,2017,"Fall, Spring",Archeology,Environmental Studies,"*Brown in the U.K. - Oxford University, St. Peter's College",Entire Year - Fall 2016 and Spring 2017 ,Male,661
+Oxford,United Kingdom,2016,"Fall, Spring",Biology,,"*Brown in the U.K. - Oxford University, St. Peter's College",Entire Year - Fall 2016 and Spring 2017 ,Female,662
+Oxford,United Kingdom,2017,"Fall, Spring",Biology,,"*Brown in the U.K. - Oxford University, St. Peter's College",Entire Year - Fall 2016 and Spring 2017 ,Female,662
+Oxford,United Kingdom,2017,"Fall, Spring",Literary Arts,,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2017 and Spring 2018 ,Female,663
+Oxford,United Kingdom,2018,"Fall, Spring",Literary Arts,,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2017 and Spring 2018 ,Female,663
+Oxford,United Kingdom,2017,"Fall, Spring",Management,Art History,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2017 and Spring 2018 ,Female,664
+Oxford,United Kingdom,2018,"Fall, Spring",Management,Art History,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2017 and Spring 2018 ,Female,664
+Oxford,United Kingdom,2017,"Fall, Spring",English Literature,Literary Arts,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2017 and Spring 2018 ,Female,665
+Oxford,United Kingdom,2018,"Fall, Spring",English Literature,Literary Arts,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2017 and Spring 2018 ,Female,665
+Oxford,United Kingdom,2017,"Fall, Spring",International Relations,Economics,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,666
+Oxford,United Kingdom,2018,"Fall, Spring",International Relations,Economics,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,666
+Oxford,United Kingdom,2017,"Fall, Spring",English Literature,Anthropology,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,667
+Oxford,United Kingdom,2018,"Fall, Spring",English Literature,Anthropology,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,667
+Oxford,United Kingdom,2017,"Fall, Spring",Religious Studies,Philosophy,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,668
+Oxford,United Kingdom,2018,"Fall, Spring",Religious Studies,Philosophy,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,668
+Oxford,United Kingdom,2017,"Fall, Spring",History,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,669
+Oxford,United Kingdom,2018,"Fall, Spring",History,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Female,669
+Oxford,United Kingdom,2017,"Fall, Spring",Political Science,Economics,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Male,670
+Oxford,United Kingdom,2018,"Fall, Spring",Political Science,Economics,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2017 and Spring 2018 ,Male,670
+Oxford,United Kingdom,2017,"Fall, Spring",Psychology,Literary Arts,"*Brown in the U.K. - Oxford University, St. Anne's College",Entire Year - Fall 2017 and Spring 2018 ,Female,671
+Oxford,United Kingdom,2018,"Fall, Spring",Psychology,Literary Arts,"*Brown in the U.K. - Oxford University, St. Anne's College",Entire Year - Fall 2017 and Spring 2018 ,Female,671
+Oxford,United Kingdom,2017,"Fall, Spring",Philosophy,English Literature,"*Brown in the U.K. - Oxford University, St. Anne's College",Entire Year - Fall 2017 and Spring 2018 ,Female,672
+Oxford,United Kingdom,2018,"Fall, Spring",Philosophy,English Literature,"*Brown in the U.K. - Oxford University, St. Anne's College",Entire Year - Fall 2017 and Spring 2018 ,Female,672
+Oxford,United Kingdom,2017,"Fall, Spring",Computer Science,Cognitive Science,"*Brown in the U.K. - Oxford University, St. Anne's College",Entire Year - Fall 2017 and Spring 2018 ,Female,673
+Oxford,United Kingdom,2018,"Fall, Spring",Computer Science,Cognitive Science,"*Brown in the U.K. - Oxford University, St. Anne's College",Entire Year - Fall 2017 and Spring 2018 ,Female,673
+Oxford,United Kingdom,2018,"Fall, Spring",Physics,Philosophy,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2018 and Spring 2019 ,Male,674
+Oxford,United Kingdom,2019,"Fall, Spring",Physics,Philosophy,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2018 and Spring 2019 ,Male,674
+Oxford,United Kingdom,2018,"Fall, Spring",History,Comparative Literature,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2018 and Spring 2019 ,Female,675
+Oxford,United Kingdom,2019,"Fall, Spring",History,Comparative Literature,"*Brown in the U.K. - Oxford University, Lady Margaret Hall",Entire Year - Fall 2018 and Spring 2019 ,Female,675
+Oxford,United Kingdom,2018,"Fall, Spring",Political Science,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2018 and Spring 2019 ,Male,676
+Oxford,United Kingdom,2019,"Fall, Spring",Political Science,,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2018 and Spring 2019 ,Male,676
+Oxford,United Kingdom,2018,"Fall, Spring",Political Science,History,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2018 and Spring 2019 ,Female,677
+Oxford,United Kingdom,2019,"Fall, Spring",Political Science,History,"*Brown in the U.K. - Oxford University, Pembroke College",Entire Year - Fall 2018 and Spring 2019 ,Female,677
+Paris,France,2016,"Fall, Spring",Comparative Literature,Architecture,*Brown in France - Paris,Entire Year - Fall 2016 and Spring 2017 ,Male,678
+Paris,France,2017,"Fall, Spring",Comparative Literature,Architecture,*Brown in France - Paris,Entire Year - Fall 2016 and Spring 2017 ,Male,678
+Paris,France,2017,"Fall, Spring",Comparative Literature,,*Brown in France - Paris,Entire Year - Fall 2017 and Spring 2018 ,Female,679
+Paris,France,2018,"Fall, Spring",Comparative Literature,,*Brown in France - Paris,Entire Year - Fall 2017 and Spring 2018 ,Female,679
+Paris,France,2017,"Fall, Spring",Biology,None,*Brown in France - Paris,Entire Year - Fall 2017 and Spring 2018 ,Male,680
+Paris,France,2018,"Fall, Spring",Biology,None,*Brown in France - Paris,Entire Year - Fall 2017 and Spring 2018 ,Male,680
+Paris,France,2017,"Fall, Spring",Economics,History,*Brown in France - Paris,Entire Year - Fall 2017 and Spring 2018 ,Female,681
+Paris,France,2018,"Fall, Spring",Economics,History,*Brown in France - Paris,Entire Year - Fall 2017 and Spring 2018 ,Female,681
+Paris,France,2018,"Fall, Spring",Mathematics,None,*Brown in France - Paris,Entire Year - Fall 2018 and Spring 2019 ,Female,682
+Paris,France,2019,"Fall, Spring",Mathematics,None,*Brown in France - Paris,Entire Year - Fall 2018 and Spring 2019 ,Female,682
+Paris,France,2018,"Fall, Spring",Neuroscience,None,*Brown in France - Paris,Entire Year - Fall 2018 and Spring 2019 ,Male,683
+Paris,France,2019,"Fall, Spring",Neuroscience,None,*Brown in France - Paris,Entire Year - Fall 2018 and Spring 2019 ,Male,683
+Santiago,Chile,2017,"Fall, Spring",Environmental Studies,,*Brown in Chile (CASA),Entire Year - Fall 2017 and Spring 2018 ,Female,771
+Santiago,Chile,2018,"Fall, Spring",Environmental Studies,,*Brown in Chile (CASA),Entire Year - Fall 2017 and Spring 2018 ,Female,771
+Stockholm,Sweden,2018,"Fall, Spring",Education,,The Swedish Program,Entire Year - Fall 2018 and Spring 2019 ,Female,805
+Stockholm,Sweden,2019,"Fall, Spring",Education,,The Swedish Program,Entire Year - Fall 2018 and Spring 2019 ,Female,805
+Sussex,United Kingdom,2016,"Fall, Spring",None,,*Brown in the U.K. - University of Sussex,Entire Year - Fall 2016 and Spring 2017 ,Female,813
+Sussex,United Kingdom,2017,"Fall, Spring",None,,*Brown in the U.K. - University of Sussex,Entire Year - Fall 2016 and Spring 2017 ,Female,813
