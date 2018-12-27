@@ -1,0 +1,60 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+#-------------------------------------------------------------------------------------
+
+data = pd.read_csv('rs/StudyNormal.csv')
+
+#-------------------------------------------------------------------------------------
+# Para separar DF de MALE y FEMALE
+
+dataF = data[data["Gender"] == "Female"]
+dataM = data[data["Gender"] == "Male"]
+#OR
+F = data.Gender == "Female"
+DataF = data[F]
+
+M = data.Gender == "Male"
+DataM = data[M]
+
+#-----------------------------------------------------------------------------------
+#Para lograr hacer un conteo de cuantos estudiantes estudiaron en cada pais, podemos hacerlo de estas dos formas.
+Countries = data.groupby("Country")["ID"].count()
+CountriesF = dataF.groupby("Country")["ID"].count()
+CountriesM = dataM.groupby("Country")["ID"].count()
+
+#OR
+dataF["Country"].value_counts()
+dataM["Country"].value_counts()
+
+
+#-----------------------------------------------------------------------------------
+#Graficaremos el comportamiento de los alumnos estudiando en distintos paises en relacion a los ultimos 3 anos.
+
+Countries_and_Year_F = data[F].groupby(["Year","Country"])["ID"].count()
+PlotF = Countries_and_Year_F.unstack()
+PlotF.plot(kind='line', marker='.')
+
+Countries_and_Year_M = DataM.groupby(["Year","Country"])["ID"].count()
+Countries_and_Year = data.groupby(["Year","Country"])["ID"].count()
+
+#-------------------------------------------------------------------------------------
+#Graficaremos las ciudades mas visitadas en los ultimos 3 anos. Aplicaremos una condicion booleana para filtrar los datos.
+
+Cities = data.groupby(['Year','City'])['ID'].count()
+C = Cities.loc[Cities > 10].unstack().fillna(0)
+C.plot(kind='line', marker='.')
+
+#-------------------------------------------------------------------------------------
+
+Countries_and_major_F = dataF.groupby(["Country", "Major"])["Year"].count()
+Countries_and_major_M = dataM.groupby(["Country", "Major"])["Year"].count()
+
+#-------------------------------------------------------------------------------------
+#Basandonos en una Tabla de Pivoteo, podemos visualizar el numero de estudiantes por anio en cada pais. Ademas de crear una columna de total.
+
+Estudiante_por_pais = data.pivot_table(index=(['Country', 'City']), columns='Year', values='ID', aggfunc='count')
+Estudiante_por_pais['Totals'] = Estudiante_por_pais.sum(axis='columns')
+Estudiantes = Estudiante_por_pais.fillna(0)
+Estudiantes.plot(kind='line')
